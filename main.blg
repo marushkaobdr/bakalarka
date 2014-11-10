@@ -11,44 +11,44 @@ The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
 Database file #1: reference.bib
-You've used 2 entries,
+You've used 7 entries,
             2898 wiz_defined-function locations,
-            641 strings with 5267 characters,
-and the built_in function-call counts, 636 in all, are:
-= -- 47
-> -- 22
-< -- 2
-+ -- 8
-- -- 6
-* -- 35
-:= -- 115
-add.period$ -- 7
-call.type$ -- 2
-change.case$ -- 4
-chr.to.int$ -- 2
-cite$ -- 4
-duplicate$ -- 40
-empty$ -- 63
-format.name$ -- 10
-if$ -- 126
+            669 strings with 6031 characters,
+and the built_in function-call counts, 1985 in all, are:
+= -- 190
+> -- 55
+< -- 5
++ -- 22
+- -- 15
+* -- 120
+:= -- 327
+add.period$ -- 26
+call.type$ -- 7
+change.case$ -- 14
+chr.to.int$ -- 7
+cite$ -- 14
+duplicate$ -- 120
+empty$ -- 188
+format.name$ -- 25
+if$ -- 424
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 4
-newline$ -- 19
-num.names$ -- 10
-pop$ -- 21
+missing$ -- 16
+newline$ -- 46
+num.names$ -- 25
+pop$ -- 58
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 14
 quote$ -- 0
-skip$ -- 23
+skip$ -- 74
 stack$ -- 0
-substring$ -- 4
-swap$ -- 4
+substring$ -- 14
+swap$ -- 12
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 52
 warning$ -- 0
-while$ -- 6
+while$ -- 15
 width$ -- 0
-write$ -- 33
+write$ -- 97
