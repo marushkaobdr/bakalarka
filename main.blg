@@ -11,44 +11,47 @@ The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
 Database file #1: reference.bib
-You've used 9 entries,
+Warning--to sort, need author, editor, or key in KeyData
+Warning--empty author and editor in KeyData
+You've used 11 entries,
             2898 wiz_defined-function locations,
-            686 strings with 6442 characters,
-and the built_in function-call counts, 2628 in all, are:
-= -- 273
-> -- 77
-< -- 7
-+ -- 30
-- -- 21
-* -- 167
-:= -- 442
-add.period$ -- 38
-call.type$ -- 9
-change.case$ -- 18
-chr.to.int$ -- 9
-cite$ -- 18
-duplicate$ -- 151
-empty$ -- 225
-format.name$ -- 35
-if$ -- 562
+            698 strings with 6743 characters,
+and the built_in function-call counts, 3189 in all, are:
+= -- 321
+> -- 88
+< -- 8
++ -- 35
+- -- 24
+* -- 202
+:= -- 523
+add.period$ -- 45
+call.type$ -- 11
+change.case$ -- 21
+chr.to.int$ -- 11
+cite$ -- 25
+duplicate$ -- 191
+empty$ -- 294
+format.name$ -- 40
+if$ -- 688
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 22
-newline$ -- 56
-num.names$ -- 35
-pop$ -- 62
+missing$ -- 25
+newline$ -- 67
+num.names$ -- 40
+pop$ -- 83
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 21
 quote$ -- 0
-skip$ -- 95
+skip$ -- 117
 stack$ -- 0
-substring$ -- 18
-swap$ -- 16
+substring$ -- 23
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 74
-warning$ -- 0
-while$ -- 21
+type$ -- 86
+warning$ -- 2
+while$ -- 24
 width$ -- 0
-write$ -- 126
+write$ -- 152
+(There were 2 warnings)
