@@ -15,7 +15,7 @@ Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
 You've used 11 entries,
             2898 wiz_defined-function locations,
-            698 strings with 6750 characters,
+            698 strings with 6710 characters,
 and the built_in function-call counts, 3189 in all, are:
 = -- 321
 > -- 88
