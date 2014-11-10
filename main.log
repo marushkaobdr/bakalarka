@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.30)  10 NOV 2014 20:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.30)  10 NOV 2014 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,19 +754,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
+Underfull \hbox (badness 1762) in paragraph at lines 37--42
+[]\T1/lmr/m/sc/12 Paloncyová\T1/lmr/m/n/12 , J. et al.  \T1/lmr/m/it/12 Sys-tém
+ den-ní pé-£e o d¥-ti do 6 let ve Fran-
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 37--42
+\T1/lmr/m/it/12 cii a v ƒes-ké re-pub-li-ce \T1/lmr/m/n/12 [on-li-ne]. 2013. [c
+it. 28.5.2014].  Do-stup-né z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 []\T1/lmr/m/it/12 Programme de l'école maternelle-petite secti-on, moyen-ne sec
 ti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 \T1/lmr/m/it/12 on, gran-de secti-on \T1/lmr/m/n/12 [on-li-ne]. [cit. 15.5.2014
 ].  Do-stup-né z:
  []
 
 
-Overfull \hbox (22.34637pt too wide) in paragraph at lines 37--40
+Overfull \hbox (22.34637pt too wide) in paragraph at lines 45--48
 []$\T1/lmr/m/n/12 . 
  []
 
@@ -774,614 +786,150 @@ Overfull \hbox (22.34637pt too wide) in paragraph at lines 37--40
 
 
 ]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-? q
-OK, entering \batchmode...
-! Extra }, or forgotten $.
-<argument> .../klasifikace_vzdelani_cz_isced_2011}
-                                                  >
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+[]\T1/lmr/m/sc/12 ƒSÚ\T1/lmr/m/n/12 .  \T1/lmr/m/it/12 Kla-si-fi-ka-ce vzd¥-lá-
+ní (CZ-ISCED 2011) \T1/lmr/m/n/12 [on-li-ne]. 2014.
+ []
 
-! Extra }, or forgotten $.
-\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
-                                                  }
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
 
-! Extra }, or forgotten $.
-\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
-                                                  
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+\T1/lmr/m/n/12 [cit. 10.11.2014]. Ver-ze plat-ná od 1.1.2014.  Do-stup-né z:
+ []
 
-! Extra }, or forgotten $.
-\text@ ...e {\textdef@ \displaystyle \f@size {#1}}
-                                                  {\textdef@ \textstyle \f@s...
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<argument> .../klasifikace_vzdelani_cz_isced_2011}
-                                                  >
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
-                                                  }
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
-                                                  
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\text@ ...xtstyle \f@size {\firstchoice@false #1}}
-                                                  {\textdef@ \textstyle \sf@...
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<argument> .../klasifikace_vzdelani_cz_isced_2011}
-                                                  >
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
-                                                  }
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
-                                                  
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\text@ ...tstyle \sf@size {\firstchoice@false #1}}
-                                                  {\textdef@ \textstyle \ssf...
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-<argument> .../klasifikace_vzdelani_cz_isced_2011}
-                                                  >
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\textdef@ ...th {#1}\let \f@size #2\selectfont #3}
-                                                  }
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\textdef@ ...h {#1}\let \f@size #2\selectfont #3}}
-                                                  
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\text@ ...style \ssf@size {\firstchoice@false #1}}
-                                                  \check@mathfonts }
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\text@ ...firstchoice@false #1}}\check@mathfonts }
-                                                  
-l.78 ...sf/i/klasifikace_vzdelani_cz_isced_2011}>}
-                                                  $.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.80 \end{thebibliography}
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.80 \end{thebibliography}
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.80 \end{thebibliography}
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.80 \end{thebibliography}
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing { inserted.
-<to be read again> 
-                   $
-l.80 \end{thebibliography}
-                          
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing { inserted.
-<to be read again> 
-                   $
-l.80 \end{thebibliography}
-                          
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing { inserted.
-<to be read again> 
-                   $
-l.80 \end{thebibliography}
-                          
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.80 \end{thebibliography}
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+Overfull \hbox (59.3964pt too wide) in paragraph at lines 82--87
+[]$\T1/lmr/m/n/12 . 
+ []
 
 ) [55] [56
 
 ]
 \openout2 = `prilohy.aux'.
 
- (./prilohy.tex <./fotky/Obr1.jpg, id=785, 493.3632pt x 370.0224pt>
+ (./prilohy.tex <./fotky/Obr1.jpg, id=788, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr1.jpg Graphic file (type jpg)
- <use ./fotky/Obr1.jpg>
+
+<use ./fotky/Obr1.jpg>
 Package pdftex.def Info: ./fotky/Obr1.jpg used on input line 3.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
- <./fotky/Obr2.jpg, id=788, 1541.76pt x 2055.68pt>
+ <./fotky/Obr2.jpg, id=791, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr2.jpg Graphic file (type jpg)
- <use ./fotky/Obr2.jpg>
+
+<use ./fotky/Obr2.jpg>
 Package pdftex.def Info: ./fotky/Obr2.jpg used on input line 12.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr3.jpg, id=791, 1541.76pt x 2055.68pt>
+ <./fotky/Obr3.jpg, id=794, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr3.jpg Graphic file (type jpg)
- <use ./fotky/Obr3.jpg>
+
+<use ./fotky/Obr3.jpg>
 Package pdftex.def Info: ./fotky/Obr3.jpg used on input line 21.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr4.jpg, id=794, 1541.76pt x 2055.68pt>
+ <./fotky/Obr4.jpg, id=797, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr4.jpg Graphic file (type jpg)
- <use ./fotky/Obr4.jpg>
+
+<use ./fotky/Obr4.jpg>
 Package pdftex.def Info: ./fotky/Obr4.jpg used on input line 30.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr5.jpg, id=797, 1541.76pt x 2055.68pt>
+ <./fotky/Obr5.jpg, id=800, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr5.jpg Graphic file (type jpg)
- <use ./fotky/Obr5.jpg>
+
+<use ./fotky/Obr5.jpg>
 Package pdftex.def Info: ./fotky/Obr5.jpg used on input line 39.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr6.jpg, id=800, 493.3632pt x 370.0224pt>
+ <./fotky/Obr6.jpg, id=803, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr6.jpg Graphic file (type jpg)
- <use ./fotky/Obr6.jpg>
+
+<use ./fotky/Obr6.jpg>
 Package pdftex.def Info: ./fotky/Obr6.jpg used on input line 48.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
- <./fotky/Obr7.jpg, id=803, 493.3632pt x 370.0224pt>
+ <./fotky/Obr7.jpg, id=806, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr7.jpg Graphic file (type jpg)
- <use ./fotky/Obr7.jpg>
+
+<use ./fotky/Obr7.jpg>
 Package pdftex.def Info: ./fotky/Obr7.jpg used on input line 58.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
- <./fotky/Obr8a.jpg, id=806, 1541.76pt x 2055.68pt>
+ <./fotky/Obr8a.jpg, id=809, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr8a.jpg Graphic file (type jpg)
- <use ./fotky/Obr8a.jpg>
+
+<use ./fotky/Obr8a.jpg>
 Package pdftex.def Info: ./fotky/Obr8a.jpg used on input line 67.
 (pdftex.def)             Requested size: 185.65297pt x 247.51787pt.
- <./fotky/Obr8b.jpg, id=807, 1541.76pt x 2055.68pt>
+ <./fotky/Obr8b.jpg, id=810, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr8b.jpg Graphic file (type jpg)
- <use ./fotky/Obr8b.jpg>
+
+<use ./fotky/Obr8b.jpg>
 Package pdftex.def Info: ./fotky/Obr8b.jpg used on input line 68.
 (pdftex.def)             Requested size: 185.65297pt x 247.51787pt.
- <./fotky/Obr9.jpg, id=810, 1541.76pt x 2055.68pt>
+ <./fotky/Obr9.jpg, id=813, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr9.jpg Graphic file (type jpg)
- <use ./fotky/Obr9.jpg>
+
+<use ./fotky/Obr9.jpg>
 Package pdftex.def Info: ./fotky/Obr9.jpg used on input line 77.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
 ) [57 <./fotky/Obr1.jpg> <./fotky/Obr2.jpg>] [58 <./fotky/Obr3.jpg> <./fotky/Ob
-r4.jpg>] [59 <./fotky/Obr5.jpg> <./fotky/Obr6.jpg>] [60 <./fotky/Obr7.jpg> <./f
-otky/Obr8a.jpg> <./fotky/Obr8b.jpg>] [61 <./fotky/Obr9.jpg>]
+r4.jpg>] [59 <./fotky/Obr5.jpg> <./fotky/Obr6.jpg>]
+[60 <./fotky/Obr7.jpg> <./fotky/Obr8a.jpg> <./fotky/Obr8b.jpg>] [61 <./fotky/Ob
+r9.jpg>]
 \openout2 = `prilohy2.aux'.
 
- (./prilohy2.tex <./fotky/Obr10.jpg, id=834, 1541.76pt x 2055.68pt>
+ (./prilohy2.tex <./fotky/Obr10.jpg, id=837, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr10.jpg Graphic file (type jpg)
- <use ./fotky/Obr10.jpg>
+
+<use ./fotky/Obr10.jpg>
 Package pdftex.def Info: ./fotky/Obr10.jpg used on input line 3.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr11.jpg, id=837, 493.3632pt x 370.0224pt>
+ <./fotky/Obr11.jpg, id=840, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr11.jpg Graphic file (type jpg)
- <use ./fotky/Obr11.jpg>
+
+<use ./fotky/Obr11.jpg>
 Package pdftex.def Info: ./fotky/Obr11.jpg used on input line 12.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
- <./fotky/Obr12.jpg, id=840, 1541.76pt x 2055.68pt>
+ <./fotky/Obr12.jpg, id=843, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr12.jpg Graphic file (type jpg)
- <use ./fotky/Obr12.jpg>
+
+<use ./fotky/Obr12.jpg>
 Package pdftex.def Info: ./fotky/Obr12.jpg used on input line 21.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr13.jpg, id=843, 1541.76pt x 2055.68pt>
+ <./fotky/Obr13.jpg, id=846, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr13.jpg Graphic file (type jpg)
- <use ./fotky/Obr13.jpg>
+
+<use ./fotky/Obr13.jpg>
 Package pdftex.def Info: ./fotky/Obr13.jpg used on input line 30.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr14.jpg, id=846, 1541.76pt x 2055.68pt>
+ <./fotky/Obr14.jpg, id=849, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr14.jpg Graphic file (type jpg)
- <use ./fotky/Obr14.jpg>
+
+<use ./fotky/Obr14.jpg>
 Package pdftex.def Info: ./fotky/Obr14.jpg used on input line 38.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr15.jpg, id=849, 370.0224pt x 493.3632pt>
+ <./fotky/Obr15.jpg, id=852, 370.0224pt x 493.3632pt>
 File: ./fotky/Obr15.jpg Graphic file (type jpg)
- <use ./fotky/Obr15.jpg>
+
+<use ./fotky/Obr15.jpg>
 Package pdftex.def Info: ./fotky/Obr15.jpg used on input line 47.
 (pdftex.def)             Requested size: 184.48pt x 245.97835pt.
- <./fotky/Obr16.jpg, id=852, 493.3632pt x 370.0224pt>
+ <./fotky/Obr16.jpg, id=855, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr16.jpg Graphic file (type jpg)
- <use ./fotky/Obr16.jpg>
+
+<use ./fotky/Obr16.jpg>
 Package pdftex.def Info: ./fotky/Obr16.jpg used on input line 56.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
- <./fotky/Obr17.jpg, id=855, 493.3632pt x 370.0224pt>
+ <./fotky/Obr17.jpg, id=858, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr17.jpg Graphic file (type jpg)
- <use ./fotky/Obr17.jpg>
+
+<use ./fotky/Obr17.jpg>
 Package pdftex.def Info: ./fotky/Obr17.jpg used on input line 65.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
- <./fotky/Obr18.jpg, id=858, 1541.76pt x 2055.68pt>
+ <./fotky/Obr18.jpg, id=861, 1541.76pt x 2055.68pt>
 File: ./fotky/Obr18.jpg Graphic file (type jpg)
- <use ./fotky/Obr18.jpg>
+
+<use ./fotky/Obr18.jpg>
 Package pdftex.def Info: ./fotky/Obr18.jpg used on input line 74.
 (pdftex.def)             Requested size: 184.46213pt x 245.97835pt.
- <./fotky/Obr19.jpg, id=861, 493.3632pt x 370.0224pt>
+ <./fotky/Obr19.jpg, id=864, 493.3632pt x 370.0224pt>
 File: ./fotky/Obr19.jpg Graphic file (type jpg)
- <use ./fotky/Obr19.jpg>
+
+<use ./fotky/Obr19.jpg>
 Package pdftex.def Info: ./fotky/Obr19.jpg used on input line 83.
 (pdftex.def)             Requested size: 327.96948pt x 245.97835pt.
 ) [62 <./fotky/Obr10.jpg> <./fotky/Obr11.jpg>] [63 <./fotky/Obr12.jpg> <./fotky
@@ -1389,8 +937,9 @@ Package pdftex.def Info: ./fotky/Obr19.jpg used on input line 83.
 g> <./fotky/Obr17.jpg>] [66 <./fotky/Obr18.jpg> <./fotky/Obr19.jpg>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 312.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 312.
- (./main.aux (./klasifikace.aux) (./peceOdite.aux) (./cile.aux) (./metody.aux) 
-(./kurikulum2.aux) (./rezimDne.aux) (./prilohy.aux) (./prilohy2.aux))
+ (./main.aux (./klasifikace.aux) (./peceOdite.aux) (./cile.aux)
+(./metody.aux) (./kurikulum2.aux) (./rezimDne.aux) (./prilohy.aux)
+(./prilohy2.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 312.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 312.
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1398,13 +947,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 312.
  ) 
 Here is how much of TeX's memory you used:
- 14229 strings out of 493307
- 198494 string characters out of 6139905
- 282933 words of memory out of 5000000
- 17138 multiletter control sequences out of 15000+600000
- 89858 words of font info for 61 fonts, out of 8000000 for 9000
+ 14225 strings out of 493307
+ 198474 string characters out of 6139905
+ 283079 words of memory out of 5000000
+ 17136 multiletter control sequences out of 15000+600000
+ 85956 words of font info for 57 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,16n,39p,2323b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,6n,39p,2323b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/publ
@@ -1413,10 +962,10 @@ ic/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share
 lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (70 pages, 11058944 bytes).
+Output written on main.pdf (70 pages, 11061734 bytes).
 PDF statistics:
- 981 PDF objects out of 1000 (max. 8388607)
- 851 compressed objects within 9 object streams
- 260 named destinations out of 1000 (max. 500000)
+ 984 PDF objects out of 1000 (max. 8388607)
+ 854 compressed objects within 9 object streams
+ 261 named destinations out of 1000 (max. 500000)
  645 words of extra memory for PDF output out of 10000 (max. 10000000)
 

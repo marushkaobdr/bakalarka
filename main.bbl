@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{12}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -31,6 +31,14 @@
 \newblock Brno, 1996.
 \newblock Příručka pro studenty, učitele a výzkumné pracovníky.
 \newblock ISBN 80-85931-15-X.
+
+\bibitem[Paloncyová et~al.(2013)Paloncyová, Paloncyová, Barvíková,
+  Kuchařová, Svobodová,, Šťastná]{DenniPece}
+{\sc Paloncyová}, J. et~al.
+\newblock \emph{Systém denní péče o děti do 6 let ve Francii a v České
+  republice} [online]. 2013. [cit.~28.\,5.\,2014].
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{http://praha.vupsv.cz/Fulltext/vz\_356.pdf}>}$.
 
 \bibitem[Programme de l'école maternelle,2008()]{program}
 \emph{Programme de l'école maternelle-petite section, moyenne section, grande
@@ -75,6 +83,6 @@
 \newblock \emph{Klasifikace vzdělání (CZ-ISCED 2011)} [online]. 2014.
   [cit.~10.\,11.\,2014]. Verze platná od 1.\,1.\,2014.
 \newblock Dostupn{\'{e}}~z:
-  $\texttt{<{http://www.czso.cz/csu/klasifik.nsf/i/klasifikace_vzdelani_cz_isced_2011}>}$.
+  $\texttt{<{http://www.czso.cz/csu/klasifik.nsf/i/klasifikace\_vzdelani\_cz\_isced\_2011}>}$.
 
 \end{thebibliography}
