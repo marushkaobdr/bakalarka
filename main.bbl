@@ -1,4 +1,4 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -43,10 +43,24 @@
 \newblock \emph{Moderní pedagogika}.
 \newblock Praha:Portál, 2005.
 
+\bibitem[V{\'{U}}P(2004)]{RVP}
+{\sc V{\'{U}}P}.
+\newblock \emph{Rámcový vzdìlávací program pro předškolní
+  vzdělávání} [online]. Praha~: Výzkumný ústav pedagogický, 2004.
+  [cit.~30.\,5.\,2014]. Verze platná od 1.\,3.\,2005.
+\newblock Dostupn{\'{e}}~z: $\texttt{<{http://www.nuv.cz/file/445}>}$.
+
 \bibitem[Walterová(1994)]{Walterova}
 {\sc Walterová}, E.
 \newblock \emph{Kurikulum – Proměny a trendy v mezinárodní perspektivě}.
 \newblock Brno, 1994.
 \newblock ISBN 80-210-0846-6.
+
+\bibitem[ČS{\'{U}}(2014)]{ISCED}
+{\sc ČS{\'{U}}}.
+\newblock \emph{Klasifikace vzdělání (CZ-ISCED 2011)} [online]. 2014.
+  [cit.~10.\,11.\,2014]. Verze platná od 1.\,1.\,2014.
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{http://www.czso.cz/csu/klasifik.nsf/i/klasifikace_vzdelani_%28cz_isced_2011%29/$File/cz-isced%202011.pdf}>}$.
 
 \end{thebibliography}
