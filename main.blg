@@ -11,11 +11,11 @@ The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
 Database file #1: reference.bib
-Warning--to sort, need author, editor, or key in KeyData
 Warning--empty author and editor in KeyData
+Warning--empty title in KeyData
 You've used 11 entries,
             2898 wiz_defined-function locations,
-            698 strings with 6743 characters,
+            698 strings with 6750 characters,
 and the built_in function-call counts, 3189 in all, are:
 = -- 321
 > -- 88
@@ -23,12 +23,12 @@ and the built_in function-call counts, 3189 in all, are:
 + -- 35
 - -- 24
 * -- 202
-:= -- 523
+:= -- 524
 add.period$ -- 45
 call.type$ -- 11
-change.case$ -- 21
+change.case$ -- 22
 chr.to.int$ -- 11
-cite$ -- 25
+cite$ -- 24
 duplicate$ -- 191
 empty$ -- 294
 format.name$ -- 40
@@ -38,14 +38,14 @@ int.to.str$ -- 1
 missing$ -- 25
 newline$ -- 67
 num.names$ -- 40
-pop$ -- 83
+pop$ -- 84
 preamble$ -- 1
-purify$ -- 21
+purify$ -- 22
 quote$ -- 0
-skip$ -- 117
+skip$ -- 116
 stack$ -- 0
-substring$ -- 23
-swap$ -- 19
+substring$ -- 22
+swap$ -- 18
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0

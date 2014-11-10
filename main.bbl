@@ -5,12 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Key(1997)]{KeyData}
-\emph{{Key data on education in the European Union - 1997}}.
-\newblock Luxembourg: Office for Official Publications of the European
-  Communities, 1997.
-\newblock ISBN 92-828-1884-5.
-
 \bibitem[Bulletin officiel 2008()]{buletin}
 \emph{Bulletin officiel (B.O.) hors série n°3 du 19 juin 2008 - Horaires et
   programmes d'enseignement de l'école primaire (maternelle et élémentaire)}
@@ -55,6 +49,13 @@
   komparace vzdělávácích systémů}.
 \newblock Praha: Portál, 1999.
 \newblock ISBN 80-7178-290-4.
+
+\bibitem[\textit{Key data on education in the European Union -
+  1977}()]{KeyData}
+\textit{Key data on education in the European Union - 1977}.
+\newblock Luxembourg: Office for Official Publications of the European
+  Communities, 1997.
+\newblock ISBN 92-828-1884-5.
 
 \bibitem[V{\'{U}}P(2004)]{RVP}
 {\sc V{\'{U}}P}.
