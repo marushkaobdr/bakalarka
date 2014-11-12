@@ -13,45 +13,47 @@ A level-1 auxiliary file: prilohy2.aux
 Database file #1: reference.bib
 Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
-You've used 12 entries,
+Warning--empty author and editor in Organizace
+Warning--empty title in Organizace
+You've used 13 entries,
             2898 wiz_defined-function locations,
-            705 strings with 6971 characters,
-and the built_in function-call counts, 3679 in all, are:
-= -- 375
+            710 strings with 7139 characters,
+and the built_in function-call counts, 3933 in all, are:
+= -- 398
 > -- 127
 < -- 8
-+ -- 48
++ -- 49
 - -- 36
-* -- 251
-:= -- 603
-add.period$ -- 50
-call.type$ -- 12
-change.case$ -- 29
-chr.to.int$ -- 12
-cite$ -- 26
-duplicate$ -- 207
-empty$ -- 313
+* -- 270
+:= -- 631
+add.period$ -- 53
+call.type$ -- 13
+change.case$ -- 31
+chr.to.int$ -- 13
+cite$ -- 30
+duplicate$ -- 227
+empty$ -- 351
 format.name$ -- 55
-if$ -- 789
+if$ -- 851
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 28
-newline$ -- 72
+missing$ -- 29
+newline$ -- 77
 num.names$ -- 44
-pop$ -- 96
+pop$ -- 108
 preamble$ -- 1
-purify$ -- 29
+purify$ -- 31
 quote$ -- 0
-skip$ -- 132
+skip$ -- 142
 stack$ -- 0
-substring$ -- 24
+substring$ -- 26
 swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 97
-warning$ -- 2
+type$ -- 103
+warning$ -- 4
 while$ -- 26
 width$ -- 0
-write$ -- 165
-(There were 2 warnings)
+write$ -- 177
+(There were 4 warnings)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{12}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -64,6 +64,13 @@
 \newblock Luxembourg: Office for Official Publications of the European
   Communities, 1997.
 \newblock ISBN 92-828-1884-5.
+
+\bibitem[\textit{Organizace vzdělávací soustavy České republiky
+  2008/09}()]{Organizace}
+\textit{Organizace vzdělávací soustavy České republiky 2008/09}.
+\newblock Eurydice:EACEA, 2008.
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{http://www.msmt.cz/vzdelavani/skolstvi-v-cr/system-vzdelavani-v-cr}>}$.
 
 \bibitem[V{\'{U}}P(2004)]{RVP}
 {\sc V{\'{U}}P}.
