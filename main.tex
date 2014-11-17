@@ -55,6 +55,13 @@
 \usepackage{tabularx}
 \usepackage{lettrine}
 \usepackage{natbib}             % sazba pouzite literatury
+\usepackage{setspace} 			% zmenit radkovani lokalne
+\usepackage{lipsum}
+
+\usepackage[table]{xcolor} 		% barevne tabulky
+\definecolor{maroon}{cmyk}{0,0.87,0.68,0.32}
+\definecolor{grey}{rgb}{0.8, 0.8, 0.8}
+
 
 %Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
 \usepackage[Glenn]{fncychap}
@@ -64,13 +71,12 @@
 %% POZOR, nezapomeňte vyplnit jméno práce a autora.
 \usepackage[unicode]{hyperref}   % Musí být za všemi ostatními balíčky
 
-\newcommand{\mujNazevPrace}{Komparace současné francouzské a české mateřské školy ve vybraných aspektech}
-\newcommand{\mujNazevPraceEN}{The comparison of contemporary French and Czech kindergarden in some significant aspects}
-
+\newcommand{\mujNazevPrace}{Komparace současné francouzské a české mateřské školy ve vybraných aspektech.}
 \newcommand{\mujVedouci}{doc. PhDr. Jana Uhlířová, CSc.}
 \newcommand{\mujKatedra}{Katedra primární pedagogiky}
 \newcommand{\mujProgram}{Specializace v pedagogice}
 \newcommand{\mujObor}{Učitelství pro mateřské školy}
+
 
 % POZOR, nezapomeňte vyplnit jméno práce a autora:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -138,11 +144,7 @@ Pedagogická fakulta
 \vspace{15mm}
 
 % Název práce přesně podle zadání
-{\LARGE\bfseries 
-\mujNazevPrace
-\vspace{10mm} \break
-\mujNazevPraceEN
-}
+{\LARGE\bfseries \mujNazevPrace}
 
 \vfill
 
@@ -287,7 +289,6 @@ comparison, preschool system in France, kindergarden, educational aims, curricul
 % \include{kap2}
 % \include{zaver}
 
-\include{Uvod}
 \part{TEORETICKÁ ČÁST}
 \include{klasifikace}
 \include{peceOdite}

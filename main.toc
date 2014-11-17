@@ -1,125 +1,124 @@
 \select@language {czech}
-\contentsline {chapter}{\numberline {1}\IeC {\'U}vod}{4}{chapter.1}
-\contentsline {part}{I\hspace {1em}TEORETICK\IeC {\'A} \IeC {\v C}\IeC {\'A}ST}{5}{part.1}
-\contentsline {chapter}{\numberline {2}Z\IeC {\'A}KLADN\IeC {\'I} INFORMACE O MATE\IeC {\v R}SK\IeC {\'Y}CH \IeC {\v S}KOL\IeC {\'A}CH SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Za\IeC {\v r}azen\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly v r\IeC {\'a}mci klasifikace vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i }ho syst\IeC {\'e}mu}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii}{7}{section.2.2}
-\contentsline {section}{\numberline {2.3}Mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly v \IeC {\v C}esk\IeC {\'e} republice}{8}{section.2.3}
-\contentsline {chapter}{\numberline {3}P\IeC {\'E}\IeC {\v C}E O D\IeC {\'I}T\IeC {\v E} P\IeC {\v R}E\IeC {\v S}KOLN\IeC {\'I}HO V\IeC {\v E}KU SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Podm\IeC {\'\i }nky p\IeC {\'e}\IeC {\v c}e o p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i } d\IeC {\v e}ti ve Francii}{11}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Mate\IeC {\v r}sk\IeC {\'a} dovolen\IeC {\'a}}{11}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Rodi\IeC {\v c}ovsk\IeC {\'a} dovolen\IeC {\'a}}{12}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}P\IeC {\'e}\IeC {\v c}e o d\IeC {\'\i }t\IeC {\v e} nerodinnou osobou}{12}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Statistika n\IeC {\'a}v\IeC {\v s}t\IeC {\v e}vnosti d\IeC {\v e}t\IeC {\'\i } v\IeC {\nobreakspace }mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{12}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Podm\IeC {\'\i }nky p\IeC {\'e}\IeC {\v c}e o p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i } d\IeC {\v e}ti v \IeC {\v C}esk\IeC {\'e} republice}{13}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Mate\IeC {\v r}sk\IeC {\'a} dovolen\IeC {\'a}}{13}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Rodi\IeC {\v c}ovsk\IeC {\'a} dovolen\IeC {\'a}}{13}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}P\IeC {\'e}\IeC {\v c}e o d\IeC {\'\i }t\IeC {\v e} nerodinnou osobou}{13}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Statistika n\IeC {\'a}v\IeC {\v s}t\IeC {\v e}vnosti d\IeC {\v e}t\IeC {\'\i } v\IeC {\nobreakspace }mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{13}{subsection.3.2.4}
-\contentsline {part}{II\hspace {1em}PRAKTICK\IeC {\'A} \IeC {\v C}\IeC {\'A}ST}{15}{part.2}
-\contentsline {chapter}{\numberline {4}C\IeC {\'I}LE PRAKTICK\IeC {\'E} \IeC {\v C}\IeC {\'A}STI}{16}{chapter.4}
-\contentsline {chapter}{\numberline {5}METODY}{17}{chapter.5}
-\contentsline {chapter}{\numberline {6}KURIKULUM}{18}{chapter.6}
-\contentsline {section}{\numberline {6.1}Francouzsk\IeC {\'e} kurikulum}{19}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Osvojit si \IeC {\v r}e\IeC {\v c} (S'approprier le langage)}{21}{subsection.6.1.1}
-\contentsline {paragraph}{Komunikovat, vyjad\IeC {\v r}ovat se (\IeC {\'E}changer, s\IeC {\'{}}exprimer)}{22}{section*.2}
-\contentsline {paragraph}{Porozum\IeC {\v e}t (Comprendre)}{22}{section*.3}
-\contentsline {paragraph}{Zdokonalovat se ve francouzsk\IeC {\'e}m jazyce (Progresser vers la ma\IeC {\^\i }trise de la langue fran\IeC {\c c}aise)}{22}{section*.4}
-\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{22}{section*.5}
-\contentsline {subsection}{\numberline {6.1.2}Objevovat p\IeC {\'\i }smo (D\IeC {\'e}couvrir l'\IeC {\'e}crit)}{23}{subsection.6.1.2}
-\contentsline {subparagraph}{Objevov\IeC {\'a}n\IeC {\'\i } psan\IeC {\'y}ch podklad\IeC {\r u} (D\IeC {\'e}couvrir les supports de l\IeC {\'{}}\IeC {\'e}crit)}{23}{section*.7}
-\contentsline {subparagraph}{Objevov\IeC {\'a}n\IeC {\'\i } psan\IeC {\'e}ho jazyka (D\IeC {\'e}couvrir la langue \IeC {\'e}crite)}{23}{section*.8}
-\contentsline {subparagraph}{Z\IeC {\'a}klady psan\IeC {\'\i } textu (Contribuer \IeC {\`a} l\IeC {\'{}}\IeC {\'e}criture de textes)}{24}{section*.9}
-\contentsline {subparagraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly \hspace {3cm}}{24}{section*.10}
-\contentsline {subparagraph}{Rozezn\IeC {\'a}v\IeC {\'a}n\IeC {\'\i } zvuku slov (Distinguer les sons de la parole)}{24}{section*.12}
-\contentsline {subparagraph}{Z\IeC {\'a}klady abecedy (Aborder le principe alphab\IeC {\'e}tique)}{24}{section*.13}
-\contentsline {subparagraph}{Z\IeC {\'a}klady grafomotoriky (Apprendre les gestes de l\IeC {\'{}}\IeC {\'e}criture)}{25}{section*.14}
-\contentsline {subparagraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{25}{section*.15}
-\contentsline {subsection}{\numberline {6.1.3}St\IeC {\'a}t se \IeC {\v z}\IeC {\'a}kem (Devenir \IeC {\'e}l\IeC {\`e}ve)}{25}{subsection.6.1.3}
-\contentsline {paragraph}{\IeC {\v Z}ivot ve spole\IeC {\v c}nosti: jak se nau\IeC {\v c}it pravidla spole\IeC {\v c}nosti a z\IeC {\'a}klady slu\IeC {\v s}n\IeC {\'e}ho chov\IeC {\'a}n\IeC {\'\i } (Vivre ensemble: apprendre les r\IeC {\`e}gles de civilit\IeC {\'e} et les principes d\IeC {\'{}}un comportement coforme \IeC {\`a} la morale)}{25}{section*.16}
-\contentsline {paragraph}{Spolupr\IeC {\'a}ce a samostatnost (Coop\IeC {\'e}rer et devenir autonome)}{26}{section*.17}
-\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{26}{section*.18}
-\contentsline {subsection}{\numberline {6.1.4}Jednat a vyjad\IeC {\v r}ovat se vlatn\IeC {\'\i }m t\IeC {\v e}lem (Agir et s'exprimer avec son corps)}{27}{subsection.6.1.4}
-\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{27}{section*.19}
-\contentsline {subsection}{\numberline {6.1.5}Objevovat sv\IeC {\v e}t (D\IeC {\'e}couvrir le monde)}{27}{subsection.6.1.5}
-\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } objekt\IeC {\r u} (D\IeC {\'e}couvrir les objets)}{28}{section*.20}
-\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } materi\IeC {\'a}lu (D\IeC {\'e}couvrir la mati\IeC {\`e}re)}{28}{section*.21}
-\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } \IeC {\v z}iv\IeC {\'e}ho (D\IeC {\'e}couvrir le vivant)}{28}{section*.22}
-\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } formy a rozm\IeC {\v e}r\IeC {\r u} (D\IeC {\'e}couvrir les formes et les grandeurs)}{28}{section*.23}
-\contentsline {paragraph}{P\IeC {\v r}ibli\IeC {\v z}ov\IeC {\'a}n\IeC {\'\i } se veli\IeC {\v c}in\IeC {\'a}m a \IeC {\v c}\IeC {\'\i }sl\IeC {\r u}m (D\IeC {\'e}couvrir les quantit\IeC {\'e}s et les nombres)}{28}{section*.24}
-\contentsline {paragraph}{Orientace v\IeC {\nobreakspace }\IeC {\v c}ase (Se rep\IeC {\'e}rer dans le temps)}{29}{section*.25}
-\contentsline {paragraph}{Orientace v\IeC {\nobreakspace }prostoru (Se rep\IeC {\'e}rer dans l\IeC {\'{}}espace)}{29}{section*.26}
-\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{29}{section*.27}
-\contentsline {subsection}{\numberline {6.1.6}Vn\IeC {\'\i }mat, c\IeC {\'\i }tit, p\IeC {\v r}edstavovat si, tvo\IeC {\v r}it (Percevoir, sentir, imaginer, cr\IeC {\'e}er)}{30}{subsection.6.1.6}
-\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{31}{section*.28}
-\contentsline {section}{\numberline {6.2}\IeC {\v C}esk\IeC {\'e} kurikulum}{31}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}D\IeC {\'\i }t\IeC {\v e} a jeho t\IeC {\v e}lo}{33}{subsection.6.2.1}
-\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{33}{section*.29}
-\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{33}{section*.30}
-\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{33}{section*.31}
-\contentsline {subsection}{\numberline {6.2.2}D\IeC {\'\i }t\IeC {\v e} a jeho psychika}{34}{subsection.6.2.2}
-\contentsline {paragraph}{Jazyk a \IeC {\v r}e\IeC {\v c}}{34}{section*.32}
-\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{34}{section*.33}
-\contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{34}{section*.34}
-\contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{34}{section*.35}
-\contentsline {paragraph}{Pozn\IeC {\'a}vac\IeC {\'\i } schopnosti a funkce, p\IeC {\v r}edstavivost a fantazie, my\IeC {\v s}lenkov\IeC {\'e} operace}{34}{section*.36}
-\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{34}{section*.37}
-\contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{35}{section*.38}
-\contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{35}{section*.39}
-\contentsline {paragraph}{Sebepojet\IeC {\'\i }, city, v\IeC {\r u}le}{35}{section*.40}
-\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{35}{section*.41}
-\contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{35}{section*.42}
-\contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{35}{section*.43}
-\contentsline {subsection}{\numberline {6.2.3}D\IeC {\'\i }t\IeC {\v e} a ten druh\IeC {\'y}}{36}{subsection.6.2.3}
-\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{36}{section*.44}
-\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{36}{section*.45}
-\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{36}{section*.46}
-\contentsline {subsection}{\numberline {6.2.4}D\IeC {\'\i }t\IeC {\v e} a spole\IeC {\v c}nost}{37}{subsection.6.2.4}
-\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{37}{section*.47}
-\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{37}{section*.48}
-\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{37}{section*.49}
-\contentsline {subsection}{\numberline {6.2.5}D\IeC {\'\i }t\IeC {\v e} a sv\IeC {\v e}t}{38}{subsection.6.2.5}
-\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{38}{section*.50}
-\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{38}{section*.51}
-\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{38}{section*.52}
-\contentsline {subsection}{\numberline {6.2.6}Shrnut\IeC {\'\i } pojet\IeC {\'\i } a c\IeC {\'\i }lu p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i }ho vzd\IeC {\v e}l\IeC {\'a}v\IeC {\'a}n\IeC {\'\i }}{38}{subsection.6.2.6}
-\contentsline {paragraph}{kompetence k\IeC {\nobreakspace }u\IeC {\v c}en\IeC {\'\i }}{39}{section*.53}
-\contentsline {paragraph}{kompetence k\IeC {\nobreakspace }\IeC {\v r}e\IeC {\v s}en\IeC {\'\i } probl\IeC {\'e}m\IeC {\r u}}{39}{section*.54}
-\contentsline {paragraph}{kompetence komunikativn\IeC {\'\i }}{40}{section*.55}
-\contentsline {paragraph}{kompetence soci\IeC {\'a}ln\IeC {\'\i } a person\IeC {\'a}ln\IeC {\'\i }}{40}{section*.56}
-\contentsline {paragraph}{kompetence \IeC {\v c}innostn\IeC {\'\i } a ob\IeC {\v c}ansk\IeC {\'e}}{40}{section*.57}
-\contentsline {section}{\numberline {6.3}Srovn\IeC {\'a}n\IeC {\'\i } kurikul Francie a \IeC {\v C}esk\IeC {\'e} republiky}{40}{section.6.3}
-\contentsline {chapter}{\numberline {7}RE\IeC {\v Z}IM DNE}{43}{chapter.7}
-\contentsline {section}{\numberline {7.1}Re\IeC {\v z}im dne ve francouzsk\IeC {\'e} mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{43}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Z\IeC {\'a}zem\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{43}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}T\IeC {\v r}\IeC {\'\i }da a jej\IeC {\'\i } vybaven\IeC {\'\i }}{44}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}Po\IeC {\v c}et d\IeC {\v e}t\IeC {\'\i } a pedagogick\IeC {\'e} zastoupen\IeC {\'\i }}{44}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}Pravidla chov\IeC {\'a}n\IeC {\'\i }}{45}{subsection.7.1.4}
-\contentsline {subsection}{\numberline {7.1.5}Pr\IeC {\r u}b\IeC {\v e}h dne a jeho specifika}{45}{subsection.7.1.5}
-\contentsline {subsection}{\numberline {7.1.6}P\IeC {\v r}\IeC {\'\i }chod d\IeC {\v e}t\IeC {\'\i } do t\IeC {\v r}\IeC {\'\i }dy}{45}{subsection.7.1.6}
-\contentsline {subsection}{\numberline {7.1.7}Ritu\IeC {\'a}ly}{46}{subsection.7.1.7}
-\contentsline {subsection}{\numberline {7.1.8}Ateli\IeC {\'e}ry}{46}{subsection.7.1.8}
-\contentsline {subsection}{\numberline {7.1.9}Spole\IeC {\v c}n\IeC {\'y} kruh}{47}{subsection.7.1.9}
-\contentsline {subsection}{\numberline {7.1.10}P\IeC {\v r}est\IeC {\'a}vka a pobyt venku}{47}{subsection.7.1.10}
-\contentsline {subsection}{\numberline {7.1.11}Strava a pitn\IeC {\'y} re\IeC {\v z}im}{48}{subsection.7.1.11}
-\contentsline {subsection}{\numberline {7.1.12}Odpo\IeC {\v c}\IeC {\'\i }v\IeC {\'a}n\IeC {\'\i }/span\IeC {\'\i }}{48}{subsection.7.1.12}
-\contentsline {subsection}{\numberline {7.1.13}T\IeC {\v e}locvi\IeC {\v c}na}{48}{subsection.7.1.13}
-\contentsline {subsection}{\numberline {7.1.14}Hygienick\IeC {\'e} z\IeC {\'a}zem\IeC {\'\i }}{48}{subsection.7.1.14}
-\contentsline {subsection}{\numberline {7.1.15}Odchod d\IeC {\v e}t\IeC {\'\i } z mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{49}{subsection.7.1.15}
-\contentsline {section}{\numberline {7.2}Re\IeC {\v z}im dne v \IeC {\v c}esk\IeC {\'e} mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{49}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Z\IeC {\'a}zem\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{49}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}T\IeC {\v r}\IeC {\'\i }da a jej\IeC {\'\i } vybaven\IeC {\'\i }}{49}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Po\IeC {\v c}et d\IeC {\v e}t\IeC {\'\i } a pedagogick\IeC {\'e} zastoupen\IeC {\'\i }}{50}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}Pravidla chov\IeC {\'a}n\IeC {\'\i }}{50}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}Pr\IeC {\r u}b\IeC {\v e}h dne a jeho specifika}{50}{subsection.7.2.5}
-\contentsline {subsection}{\numberline {7.2.6}P\IeC {\v r}\IeC {\'\i }chod d\IeC {\v e}t\IeC {\'\i } do t\IeC {\v r}\IeC {\'\i }dy}{51}{subsection.7.2.6}
-\contentsline {subsection}{\numberline {7.2.7}Voln\IeC {\'a} hra}{51}{subsection.7.2.7}
-\contentsline {subsection}{\numberline {7.2.8}Kontaktn\IeC {\'\i } kruh}{51}{subsection.7.2.8}
-\contentsline {subsection}{\numberline {7.2.9}Hlavn\IeC {\'\i } \IeC {\v c}innost}{52}{subsection.7.2.9}
-\contentsline {subsection}{\numberline {7.2.10}Pobyt venku}{52}{subsection.7.2.10}
-\contentsline {subsection}{\numberline {7.2.11}Strava a pitn\IeC {\'y} re\IeC {\v z}im}{52}{subsection.7.2.11}
-\contentsline {subsection}{\numberline {7.2.12}Odpo\IeC {\v c}\IeC {\'\i }v\IeC {\'a}n\IeC {\'\i }/span\IeC {\'\i }}{52}{subsection.7.2.12}
-\contentsline {subsection}{\numberline {7.2.13}T\IeC {\v e}locvi\IeC {\v c}na}{53}{subsection.7.2.13}
-\contentsline {subsection}{\numberline {7.2.14}Odchod d\IeC {\v e}t\IeC {\'\i } z mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{53}{subsection.7.2.14}
-\contentsline {section}{\numberline {7.3}Srovn\IeC {\'a}n\IeC {\'\i } re\IeC {\v z}imu mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii a \IeC {\v C}esk\IeC {\'e} republice}{53}{section.7.3}
-\contentsline {chapter}{P\IeC {\v r}\IeC {\'\i }lohy}{59}{chapter*.59}
+\contentsline {part}{I\hspace {1em}TEORETICK\IeC {\'A} \IeC {\v C}\IeC {\'A}ST}{4}{part.1}
+\contentsline {chapter}{\numberline {1}Z\IeC {\'A}KLADN\IeC {\'I} INFORMACE O MATE\IeC {\v R}SK\IeC {\'Y}CH \IeC {\v S}KOL\IeC {\'A}CH SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Za\IeC {\v r}azen\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly v r\IeC {\'a}mci klasifikace vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i }ho syst\IeC {\'e}mu}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly v \IeC {\v C}esk\IeC {\'e} republice}{7}{section.1.3}
+\contentsline {chapter}{\numberline {2}P\IeC {\'E}\IeC {\v C}E O D\IeC {\'I}T\IeC {\v E} P\IeC {\v R}E\IeC {\v S}KOLN\IeC {\'I}HO V\IeC {\v E}KU SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Podm\IeC {\'\i }nky p\IeC {\'e}\IeC {\v c}e o p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i } d\IeC {\v e}ti ve Francii}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Mate\IeC {\v r}sk\IeC {\'a} dovolen\IeC {\'a}}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Rodi\IeC {\v c}ovsk\IeC {\'a} dovolen\IeC {\'a}}{10}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}P\IeC {\'e}\IeC {\v c}e o d\IeC {\'\i }t\IeC {\v e} nerodinnou osobou}{10}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Statistika n\IeC {\'a}v\IeC {\v s}t\IeC {\v e}vnosti d\IeC {\v e}t\IeC {\'\i } v\IeC {\nobreakspace }mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{11}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Podm\IeC {\'\i }nky p\IeC {\'e}\IeC {\v c}e o p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i } d\IeC {\v e}ti v \IeC {\v C}esk\IeC {\'e} republice}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Mate\IeC {\v r}sk\IeC {\'a} dovolen\IeC {\'a}}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Rodi\IeC {\v c}ovsk\IeC {\'a} dovolen\IeC {\'a}}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}P\IeC {\'e}\IeC {\v c}e o d\IeC {\'\i }t\IeC {\v e} nerodinnou osobou}{12}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Statistika n\IeC {\'a}v\IeC {\v s}t\IeC {\v e}vnosti d\IeC {\v e}t\IeC {\'\i } v\IeC {\nobreakspace }mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{12}{subsection.2.2.4}
+\contentsline {part}{II\hspace {1em}PRAKTICK\IeC {\'A} \IeC {\v C}\IeC {\'A}ST}{13}{part.2}
+\contentsline {chapter}{\numberline {3}C\IeC {\'I}LE PRAKTICK\IeC {\'E} \IeC {\v C}\IeC {\'A}STI}{14}{chapter.3}
+\contentsline {chapter}{\numberline {4}METODY}{15}{chapter.4}
+\contentsline {chapter}{\numberline {5}KURIKULUM}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}Francouzsk\IeC {\'e} kurikulum}{17}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Osvojit si \IeC {\v r}e\IeC {\v c} (S'approprier le langage)}{19}{subsection.5.1.1}
+\contentsline {paragraph}{Komunikovat, vyjad\IeC {\v r}ovat se (\IeC {\'E}changer, s\IeC {\'{}}exprimer)}{20}{section*.3}
+\contentsline {paragraph}{Porozum\IeC {\v e}t (Comprendre)}{20}{section*.4}
+\contentsline {paragraph}{Zdokonalovat se ve francouzsk\IeC {\'e}m jazyce (Progresser vers la ma\IeC {\^\i }trise de la langue fran\IeC {\c c}aise)}{20}{section*.5}
+\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{20}{section*.6}
+\contentsline {subsection}{\numberline {5.1.2}Objevovat p\IeC {\'\i }smo (D\IeC {\'e}couvrir l'\IeC {\'e}crit)}{21}{subsection.5.1.2}
+\contentsline {subparagraph}{Objevov\IeC {\'a}n\IeC {\'\i } psan\IeC {\'y}ch podklad\IeC {\r u} (D\IeC {\'e}couvrir les supports de l\IeC {\'{}}\IeC {\'e}crit)}{21}{section*.8}
+\contentsline {subparagraph}{Objevov\IeC {\'a}n\IeC {\'\i } psan\IeC {\'e}ho jazyka (D\IeC {\'e}couvrir la langue \IeC {\'e}crite)}{21}{section*.9}
+\contentsline {subparagraph}{Z\IeC {\'a}klady psan\IeC {\'\i } textu (Contribuer \IeC {\`a} l\IeC {\'{}}\IeC {\'e}criture de textes)}{21}{section*.10}
+\contentsline {subparagraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly \hspace {3cm}}{22}{section*.11}
+\contentsline {subparagraph}{Rozezn\IeC {\'a}v\IeC {\'a}n\IeC {\'\i } zvuku slov (Distinguer les sons de la parole)}{22}{section*.13}
+\contentsline {subparagraph}{Z\IeC {\'a}klady abecedy (Aborder le principe alphab\IeC {\'e}tique)}{22}{section*.14}
+\contentsline {subparagraph}{Z\IeC {\'a}klady grafomotoriky (Apprendre les gestes de l\IeC {\'{}}\IeC {\'e}criture)}{23}{section*.15}
+\contentsline {subparagraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{23}{section*.16}
+\contentsline {subsection}{\numberline {5.1.3}St\IeC {\'a}t se \IeC {\v z}\IeC {\'a}kem (Devenir \IeC {\'e}l\IeC {\`e}ve)}{23}{subsection.5.1.3}
+\contentsline {paragraph}{\IeC {\v Z}ivot ve spole\IeC {\v c}nosti: jak se nau\IeC {\v c}it pravidla spole\IeC {\v c}nosti a z\IeC {\'a}klady slu\IeC {\v s}n\IeC {\'e}ho chov\IeC {\'a}n\IeC {\'\i } (Vivre ensemble: apprendre les r\IeC {\`e}gles de civilit\IeC {\'e} et les principes d\IeC {\'{}}un comportement coforme \IeC {\`a} la morale)}{23}{section*.17}
+\contentsline {paragraph}{Spolupr\IeC {\'a}ce a samostatnost (Coop\IeC {\'e}rer et devenir autonome)}{24}{section*.18}
+\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{24}{section*.19}
+\contentsline {subsection}{\numberline {5.1.4}Jednat a vyjad\IeC {\v r}ovat se vlatn\IeC {\'\i }m t\IeC {\v e}lem (Agir et s'exprimer avec son corps)}{24}{subsection.5.1.4}
+\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{25}{section*.20}
+\contentsline {subsection}{\numberline {5.1.5}Objevovat sv\IeC {\v e}t (D\IeC {\'e}couvrir le monde)}{25}{subsection.5.1.5}
+\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } objekt\IeC {\r u} (D\IeC {\'e}couvrir les objets)}{25}{section*.21}
+\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } materi\IeC {\'a}lu (D\IeC {\'e}couvrir la mati\IeC {\`e}re)}{25}{section*.22}
+\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } \IeC {\v z}iv\IeC {\'e}ho (D\IeC {\'e}couvrir le vivant)}{26}{section*.23}
+\contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } formy a rozm\IeC {\v e}r\IeC {\r u} (D\IeC {\'e}couvrir les formes et les grandeurs)}{26}{section*.24}
+\contentsline {paragraph}{P\IeC {\v r}ibli\IeC {\v z}ov\IeC {\'a}n\IeC {\'\i } se veli\IeC {\v c}in\IeC {\'a}m a \IeC {\v c}\IeC {\'\i }sl\IeC {\r u}m (D\IeC {\'e}couvrir les quantit\IeC {\'e}s et les nombres)}{26}{section*.25}
+\contentsline {paragraph}{Orientace v\IeC {\nobreakspace }\IeC {\v c}ase (Se rep\IeC {\'e}rer dans le temps)}{26}{section*.26}
+\contentsline {paragraph}{Orientace v\IeC {\nobreakspace }prostoru (Se rep\IeC {\'e}rer dans l\IeC {\'{}}espace)}{27}{section*.27}
+\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{27}{section*.28}
+\contentsline {subsection}{\numberline {5.1.6}Vn\IeC {\'\i }mat, c\IeC {\'\i }tit, p\IeC {\v r}edstavovat si, tvo\IeC {\v r}it (Percevoir, sentir, imaginer, cr\IeC {\'e}er)}{28}{subsection.5.1.6}
+\contentsline {paragraph}{Kompetence na konci mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{28}{section*.29}
+\contentsline {section}{\numberline {5.2}\IeC {\v C}esk\IeC {\'e} kurikulum}{29}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}D\IeC {\'\i }t\IeC {\v e} a jeho t\IeC {\v e}lo}{30}{subsection.5.2.1}
+\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{30}{section*.30}
+\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{30}{section*.31}
+\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{30}{section*.32}
+\contentsline {subsection}{\numberline {5.2.2}D\IeC {\'\i }t\IeC {\v e} a jeho psychika}{31}{subsection.5.2.2}
+\contentsline {paragraph}{Jazyk a \IeC {\v r}e\IeC {\v c}}{31}{section*.33}
+\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{31}{section*.34}
+\contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{31}{section*.35}
+\contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{31}{section*.36}
+\contentsline {paragraph}{Pozn\IeC {\'a}vac\IeC {\'\i } schopnosti a funkce, p\IeC {\v r}edstavivost a fantazie, my\IeC {\v s}lenkov\IeC {\'e} operace}{32}{section*.37}
+\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{32}{section*.38}
+\contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{32}{section*.39}
+\contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{32}{section*.40}
+\contentsline {paragraph}{Sebepojet\IeC {\'\i }, city, v\IeC {\r u}le}{32}{section*.41}
+\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{32}{section*.42}
+\contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{32}{section*.43}
+\contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{33}{section*.44}
+\contentsline {subsection}{\numberline {5.2.3}D\IeC {\'\i }t\IeC {\v e} a ten druh\IeC {\'y}}{33}{subsection.5.2.3}
+\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{33}{section*.45}
+\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{33}{section*.46}
+\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{34}{section*.47}
+\contentsline {subsection}{\numberline {5.2.4}D\IeC {\'\i }t\IeC {\v e} a spole\IeC {\v c}nost}{34}{subsection.5.2.4}
+\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{34}{section*.48}
+\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{34}{section*.49}
+\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{34}{section*.50}
+\contentsline {subsection}{\numberline {5.2.5}D\IeC {\'\i }t\IeC {\v e} a sv\IeC {\v e}t}{35}{subsection.5.2.5}
+\contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{35}{section*.51}
+\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{35}{section*.52}
+\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{35}{section*.53}
+\contentsline {subsection}{\numberline {5.2.6}Shrnut\IeC {\'\i } pojet\IeC {\'\i } a c\IeC {\'\i }lu p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i }ho vzd\IeC {\v e}l\IeC {\'a}v\IeC {\'a}n\IeC {\'\i }}{36}{subsection.5.2.6}
+\contentsline {paragraph}{kompetence k\IeC {\nobreakspace }u\IeC {\v c}en\IeC {\'\i }}{36}{section*.54}
+\contentsline {paragraph}{kompetence k\IeC {\nobreakspace }\IeC {\v r}e\IeC {\v s}en\IeC {\'\i } probl\IeC {\'e}m\IeC {\r u}}{37}{section*.55}
+\contentsline {paragraph}{kompetence komunikativn\IeC {\'\i }}{37}{section*.56}
+\contentsline {paragraph}{kompetence soci\IeC {\'a}ln\IeC {\'\i } a person\IeC {\'a}ln\IeC {\'\i }}{37}{section*.57}
+\contentsline {paragraph}{kompetence \IeC {\v c}innostn\IeC {\'\i } a ob\IeC {\v c}ansk\IeC {\'e}}{37}{section*.58}
+\contentsline {section}{\numberline {5.3}Srovn\IeC {\'a}n\IeC {\'\i } kurikul Francie a \IeC {\v C}esk\IeC {\'e} republiky}{38}{section.5.3}
+\contentsline {chapter}{\numberline {6}RE\IeC {\v Z}IM DNE}{40}{chapter.6}
+\contentsline {section}{\numberline {6.1}Re\IeC {\v z}im dne ve francouzsk\IeC {\'e} mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{40}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Z\IeC {\'a}zem\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{40}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}T\IeC {\v r}\IeC {\'\i }da a jej\IeC {\'\i } vybaven\IeC {\'\i }}{41}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Po\IeC {\v c}et d\IeC {\v e}t\IeC {\'\i } a pedagogick\IeC {\'e} zastoupen\IeC {\'\i }}{41}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Pravidla chov\IeC {\'a}n\IeC {\'\i }}{42}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Pr\IeC {\r u}b\IeC {\v e}h dne a jeho specifika}{42}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}P\IeC {\v r}\IeC {\'\i }chod d\IeC {\v e}t\IeC {\'\i } do t\IeC {\v r}\IeC {\'\i }dy}{42}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Ritu\IeC {\'a}ly}{43}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}Ateli\IeC {\'e}ry}{44}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.9}Spole\IeC {\v c}n\IeC {\'y} kruh}{44}{subsection.6.1.9}
+\contentsline {subsection}{\numberline {6.1.10}P\IeC {\v r}est\IeC {\'a}vka a pobyt venku}{45}{subsection.6.1.10}
+\contentsline {subsection}{\numberline {6.1.11}Strava a pitn\IeC {\'y} re\IeC {\v z}im}{45}{subsection.6.1.11}
+\contentsline {subsection}{\numberline {6.1.12}Odpo\IeC {\v c}\IeC {\'\i }v\IeC {\'a}n\IeC {\'\i }/span\IeC {\'\i }}{45}{subsection.6.1.12}
+\contentsline {subsection}{\numberline {6.1.13}T\IeC {\v e}locvi\IeC {\v c}na}{46}{subsection.6.1.13}
+\contentsline {subsection}{\numberline {6.1.14}Hygienick\IeC {\'e} z\IeC {\'a}zem\IeC {\'\i }}{46}{subsection.6.1.14}
+\contentsline {subsection}{\numberline {6.1.15}Odchod d\IeC {\v e}t\IeC {\'\i } z mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{46}{subsection.6.1.15}
+\contentsline {section}{\numberline {6.2}Re\IeC {\v z}im dne v \IeC {\v c}esk\IeC {\'e} mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}kole}{46}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Z\IeC {\'a}zem\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{46}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}T\IeC {\v r}\IeC {\'\i }da a jej\IeC {\'\i } vybaven\IeC {\'\i }}{47}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Po\IeC {\v c}et d\IeC {\v e}t\IeC {\'\i } a pedagogick\IeC {\'e} zastoupen\IeC {\'\i }}{47}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Pravidla chov\IeC {\'a}n\IeC {\'\i }}{47}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Pr\IeC {\r u}b\IeC {\v e}h dne a jeho specifika}{48}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}P\IeC {\v r}\IeC {\'\i }chod d\IeC {\v e}t\IeC {\'\i } do t\IeC {\v r}\IeC {\'\i }dy}{48}{subsection.6.2.6}
+\contentsline {subsection}{\numberline {6.2.7}Voln\IeC {\'a} hra}{48}{subsection.6.2.7}
+\contentsline {subsection}{\numberline {6.2.8}Kontaktn\IeC {\'\i } kruh}{49}{subsection.6.2.8}
+\contentsline {subsection}{\numberline {6.2.9}Hlavn\IeC {\'\i } \IeC {\v c}innost}{49}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.10}Pobyt venku}{50}{subsection.6.2.10}
+\contentsline {subsection}{\numberline {6.2.11}Strava a pitn\IeC {\'y} re\IeC {\v z}im}{50}{subsection.6.2.11}
+\contentsline {subsection}{\numberline {6.2.12}Odpo\IeC {\v c}\IeC {\'\i }v\IeC {\'a}n\IeC {\'\i }/span\IeC {\'\i }}{50}{subsection.6.2.12}
+\contentsline {subsection}{\numberline {6.2.13}T\IeC {\v e}locvi\IeC {\v c}na}{50}{subsection.6.2.13}
+\contentsline {subsection}{\numberline {6.2.14}Odchod d\IeC {\v e}t\IeC {\'\i } z mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly}{51}{subsection.6.2.14}
+\contentsline {section}{\numberline {6.3}Srovn\IeC {\'a}n\IeC {\'\i } re\IeC {\v z}imu mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii a \IeC {\v C}esk\IeC {\'e} republice}{51}{section.6.3}
+\contentsline {chapter}{P\IeC {\v r}\IeC {\'\i }lohy}{56}{chapter*.63}
