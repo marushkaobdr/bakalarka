@@ -1,6 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
+A level-1 auxiliary file: Uvod.aux
 A level-1 auxiliary file: klasifikace.aux
 A level-1 auxiliary file: peceOdite.aux
 A level-1 auxiliary file: cile.aux
@@ -11,49 +12,53 @@ The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
 Database file #1: reference.bib
+Repeated entry---line 148 of file reference.bib
+ : @online{ISCED
+ :              ,
+I'm skipping whatever remains of this entry
 Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
 Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
-You've used 13 entries,
+You've used 15 entries,
             2898 wiz_defined-function locations,
-            710 strings with 7139 characters,
-and the built_in function-call counts, 3933 in all, are:
-= -- 398
-> -- 127
-< -- 8
-+ -- 49
-- -- 36
-* -- 270
-:= -- 631
-add.period$ -- 53
-call.type$ -- 13
-change.case$ -- 31
-chr.to.int$ -- 13
-cite$ -- 30
-duplicate$ -- 227
-empty$ -- 351
-format.name$ -- 55
-if$ -- 851
+            722 strings with 7444 characters,
+and the built_in function-call counts, 4276 in all, are:
+= -- 477
+> -- 110
+< -- 7
++ -- 46
+- -- 31
+* -- 307
+:= -- 651
+add.period$ -- 60
+call.type$ -- 15
+change.case$ -- 34
+chr.to.int$ -- 15
+cite$ -- 34
+duplicate$ -- 244
+empty$ -- 378
+format.name$ -- 48
+if$ -- 954
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 29
-newline$ -- 77
-num.names$ -- 44
-pop$ -- 108
+missing$ -- 36
+newline$ -- 82
+num.names$ -- 39
+pop$ -- 109
 preamble$ -- 1
-purify$ -- 31
+purify$ -- 34
 quote$ -- 0
-skip$ -- 142
+skip$ -- 159
 stack$ -- 0
-substring$ -- 26
-swap$ -- 20
+substring$ -- 30
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 103
+type$ -- 130
 warning$ -- 4
-while$ -- 26
+while$ -- 23
 width$ -- 0
-write$ -- 177
-(There were 4 warnings)
+write$ -- 195
+(There was 1 error message)

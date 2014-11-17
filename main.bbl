@@ -1,4 +1,4 @@
-\begin{thebibliography}{13}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -19,6 +19,13 @@
 \newblock XO Editions, 2011.
 \newblock ISBN 978-2845635449.
 
+\bibitem[Eurydice (2009)()]{Eurydice}
+\emph{Vzdělávání a péče v raném dětství v Evropě: překonávání
+  sociálních a kulturních nerovností} [online]. Eurydice: EACEA, 2009.
+  [cit.~19.\,10.\,2014].
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{http://www.msmt.cz/file/10185/?file=10185\&lang=2}>}$.
+
 \bibitem[Gavora(2008)]{Gavora08}
 {\sc Gavora}, P.
 \newblock \emph{Úvod do pedagogického výskumu}.
@@ -27,13 +34,18 @@
 
 \bibitem[Gavora(1996)]{Gavora96}
 {\sc Gavora}, P.
-\newblock \emph{Výzkumné metody v pedagogice}.
+\newblock \emph{Výzkumné metody v pedagogice: příručka pro studenty,
+  učitele a výzkumné pracovníky}.
 \newblock Brno, 1996.
-\newblock Příručka pro studenty, učitele a výzkumné pracovníky.
 \newblock ISBN 80-85931-15-X.
 
-\bibitem[Paloncyová et~al.(2013)Paloncyová, Paloncyová, Barvíková,
-  Kuchařová, Svobodová,, Šťastná]{DenniPece}
+\bibitem[Mateřská, 2014()]{materska}
+\emph{Mateřská 2014} [online]. 2014. [cit.~15.\,11.\,2014].
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{http://socialni-davky-2014.eu/materska-2014/}>}$.
+
+\bibitem[Paloncyová et~al.(2013)Paloncyová, Barvíková, Kuchařová,
+  Svobodová,, Šťastná]{Dennipece}
 {\sc Paloncyová}, J. et~al.
 \newblock \emph{Systém denní péče o děti do 6 let ve Francii a v České
   republice} [online]. 2013. [cit.~28.\,5.\,2014].
@@ -51,12 +63,10 @@
 \newblock \emph{Moderní pedagogika}.
 \newblock Praha:Portál, 2005.
 
-\bibitem[Průcha(1999)]{Prucha99}
-{\sc Průcha}, J.
-\newblock \emph{Vzdělávání a školství ve světě: základy mezinárodní
-  komparace vzdělávácích systémů}.
-\newblock Praha: Portál, 1999.
-\newblock ISBN 80-7178-290-4.
+\bibitem[Rodičovský příspěvek, 2014()]{rodicovska}
+\emph{Rodičovský příspěvek 2014} [online]. 2014. [cit.~15.\,11.\,2014].
+\newblock Dostupn{\'{e}}~z:
+  $\texttt{<{http://socialni-davky-2014.eu/rodicovsky-prispevek-2014/}>}$.
 
 \bibitem[\textit{Key data on education in the European Union -
   1997}()]{KeyData}
