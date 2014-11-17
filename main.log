@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.2)  17 NOV 2014 15:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.2)  17 NOV 2014 15:35
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -700,21 +700,22 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 
 (./peceOdite.tex
 Kapitola 2.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 14.
+[9
 
-Overfull \hbox (5.59825pt too wide) in paragraph at lines 14--48
+
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 26.
+
+Overfull \hbox (5.59825pt too wide) in paragraph at lines 26--60
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9
-
-
-
-] [10] [11])
+[10] [11])
 Underfull \hbox (badness 10000) in paragraph at lines 88--294
 
  []
@@ -1024,6 +1025,10 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 320.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 320.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6A2097C9BBDC299B90FA7E46E75B881A;14437.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 320.
  ) 
 Here is how much of TeX's memory you used:
@@ -1043,7 +1048,7 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (70 pages, 11125040 bytes).
+Output written on main.pdf (70 pages, 11125027 bytes).
 PDF statistics:
  1018 PDF objects out of 1200 (max. 8388607)
  886 compressed objects within 9 object streams
