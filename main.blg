@@ -1,7 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-A level-1 auxiliary file: Uvod.aux
 A level-1 auxiliary file: klasifikace.aux
 A level-1 auxiliary file: peceOdite.aux
 A level-1 auxiliary file: cile.aux
@@ -12,53 +11,49 @@ The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
 Database file #1: reference.bib
-Repeated entry---line 148 of file reference.bib
- : @online{ISCED
- :              ,
-I'm skipping whatever remains of this entry
 Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
 Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
-You've used 15 entries,
+You've used 18 entries,
             2898 wiz_defined-function locations,
-            722 strings with 7444 characters,
-and the built_in function-call counts, 4276 in all, are:
-= -- 477
-> -- 110
-< -- 7
-+ -- 46
-- -- 31
-* -- 307
-:= -- 651
-add.period$ -- 60
-call.type$ -- 15
-change.case$ -- 34
-chr.to.int$ -- 15
-cite$ -- 34
-duplicate$ -- 244
-empty$ -- 378
-format.name$ -- 48
-if$ -- 954
+            740 strings with 7972 characters,
+and the built_in function-call counts, 5179 in all, are:
+= -- 578
+> -- 143
+< -- 10
++ -- 58
+- -- 40
+* -- 366
+:= -- 813
+add.period$ -- 74
+call.type$ -- 18
+change.case$ -- 40
+chr.to.int$ -- 18
+cite$ -- 40
+duplicate$ -- 291
+empty$ -- 440
+format.name$ -- 63
+if$ -- 1143
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 36
-newline$ -- 82
-num.names$ -- 39
-pop$ -- 109
+missing$ -- 44
+newline$ -- 98
+num.names$ -- 54
+pop$ -- 125
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 40
 quote$ -- 0
-skip$ -- 159
+skip$ -- 188
 stack$ -- 0
-substring$ -- 30
-swap$ -- 21
+substring$ -- 36
+swap$ -- 27
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 130
+type$ -- 158
 warning$ -- 4
-while$ -- 23
+while$ -- 32
 width$ -- 0
-write$ -- 195
-(There was 1 error message)
+write$ -- 235
+(There were 4 warnings)
