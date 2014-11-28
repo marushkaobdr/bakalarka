@@ -2,3 +2,4 @@
 *.aux
 *.log
 *.bbl
+!tabRozvrh1.pdf
