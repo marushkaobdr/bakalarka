@@ -97,9 +97,9 @@
 \contentsline {subsection}{\numberline {6.1.5}Pr\IeC {\r u}b\IeC {\v e}h dne a jeho specifika}{50}{subsection.6.1.5}
 \contentsline {subsection}{\numberline {6.1.6}P\IeC {\v r}\IeC {\'\i }chod d\IeC {\v e}t\IeC {\'\i } do t\IeC {\v r}\IeC {\'\i }dy}{50}{subsection.6.1.6}
 \contentsline {subsection}{\numberline {6.1.7}Ritu\IeC {\'a}ly}{51}{subsection.6.1.7}
-\contentsline {subsection}{\numberline {6.1.8}Ateli\IeC {\'e}ry}{52}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.8}Ateli\IeC {\'e}ry}{51}{subsection.6.1.8}
 \contentsline {subsection}{\numberline {6.1.9}Spole\IeC {\v c}n\IeC {\'y} kruh}{52}{subsection.6.1.9}
-\contentsline {subsection}{\numberline {6.1.10}P\IeC {\v r}est\IeC {\'a}vka a pobyt venku}{53}{subsection.6.1.10}
+\contentsline {subsection}{\numberline {6.1.10}P\IeC {\v r}est\IeC {\'a}vka a pobyt venku}{52}{subsection.6.1.10}
 \contentsline {subsection}{\numberline {6.1.11}Strava a pitn\IeC {\'y} re\IeC {\v z}im}{53}{subsection.6.1.11}
 \contentsline {subsection}{\numberline {6.1.12}Odpo\IeC {\v c}\IeC {\'\i }v\IeC {\'a}n\IeC {\'\i }/span\IeC {\'\i }}{53}{subsection.6.1.12}
 \contentsline {subsection}{\numberline {6.1.13}T\IeC {\v e}locvi\IeC {\v c}na}{54}{subsection.6.1.13}
