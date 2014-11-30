@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: klasifikace.aux
+A level-1 auxiliary file: pojetiDitete.aux
 A level-1 auxiliary file: peceOdite.aux
 A level-1 auxiliary file: cile.aux
 A level-1 auxiliary file: metody.aux
@@ -17,43 +18,43 @@ Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
 You've used 19 entries,
             2898 wiz_defined-function locations,
-            745 strings with 8151 characters,
-and the built_in function-call counts, 5563 in all, are:
-= -- 609
-> -- 165
-< -- 11
-+ -- 65
-- -- 46
+            749 strings with 8152 characters,
+and the built_in function-call counts, 5663 in all, are:
+= -- 601
+> -- 176
+< -- 12
++ -- 68
+- -- 49
 * -- 395
-:= -- 879
-add.period$ -- 78
+:= -- 909
+add.period$ -- 79
 call.type$ -- 19
 change.case$ -- 43
 chr.to.int$ -- 19
 cite$ -- 42
-duplicate$ -- 312
-empty$ -- 472
-format.name$ -- 74
-if$ -- 1222
+duplicate$ -- 322
+empty$ -- 487
+format.name$ -- 79
+if$ -- 1234
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 46
-newline$ -- 104
-num.names$ -- 59
-pop$ -- 135
+missing$ -- 45
+newline$ -- 106
+num.names$ -- 64
+pop$ -- 141
 preamble$ -- 1
 purify$ -- 43
 quote$ -- 0
-skip$ -- 202
+skip$ -- 204
 stack$ -- 0
 substring$ -- 38
-swap$ -- 30
+swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 164
+type$ -- 159
 warning$ -- 4
-while$ -- 35
+while$ -- 38
 width$ -- 0
-write$ -- 249
+write$ -- 253
 (There were 4 warnings)
