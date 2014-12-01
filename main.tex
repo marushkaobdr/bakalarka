@@ -75,6 +75,7 @@
 \usepackage[unicode]{hyperref}   % Musí být za všemi ostatními balíčky
 
 \newcommand{\mujNazevPrace}{Komparace současné francouzské a české mateřské školy ve vybraných aspektech}
+\newcommand{\mujNazevPraceAJ}{The comparison of contemporary French and Czech kindergarden in some significant aspects}
 \newcommand{\mujVedouci}{doc. PhDr. Jana Uhlířová, CSc.}
 \newcommand{\mujKatedra}{Katedra primární pedagogiky}
 \newcommand{\mujProgram}{Specializace v pedagogice}
@@ -147,7 +148,12 @@ Pedagogická fakulta
 \vspace{15mm}
 
 % Název práce přesně podle zadání
-{\LARGE\bfseries \mujNazevPrace}
+{\LARGE\bfseries
+	\mujNazevPrace
+\large\bfseries \\
+\vspace{8mm}
+	\mujNazevPraceAJ
+}
 
 \vfill
 
@@ -174,42 +180,39 @@ Praha 2014
 \end{center}
 
 \newpage
+	%%% Strana s čestným prohlášením k bakalářské práci
 
-%%% Následuje vevázaný list -- kopie podepsaného "Zadání bakalářské práce".
-%%% Toto zadání NENÍ součástí elektronické verze práce, nescanovat.
+	\vglue 0pt plus 1fill
 
-%%% Na tomto místě mohou být napsána případná poděkování (vedoucímu práce,
-%%% konzultantovi, tomu, kdo zapůjčil software, literaturu apod.)
+	\noindent
+	Prohlašuji, že jsem bakalářskou práci na téma Komparace současné francouzské a české mateřské školy ve vybraných aspektech vypracovala pod vedením vedoucího bakalářské práce samostatně za použití v práci uvedených pramenů a literatury. Dále prohlašuji, že tato bakalářská práce nebyla využita k získání jiného nebo stejného titulu.
 
-\openright
 
-\noindent
-% TODO !!!! nejdriv prohlaseni pak podekovani
+	\vspace{10mm}
 
-Poděkování
+	\hbox{\hbox to 0.5\hsize{%
+	V Praze dne 5.12.2014
+	\hss}\hbox to 0.5\hsize{%
+	Podpis autora
+	\hss}}
 
-Chtěla bych poděkovat doc. PhDr. Janě Uhlířové CSc. za vedení mé práce, podnětné přípomínky a čas, který mi věnovala.
-Dále bych chtěla poděkovat své rodině za morální podporu a příteli za podporu technickou. 
-
+	\vspace{20mm}
 \newpage
+	%%% Následuje vevázaný list -- kopie podepsaného "Zadání bakalářské práce".
+	%%% Toto zadání NENÍ součástí elektronické verze práce, nescanovat.
 
-%%% Strana s čestným prohlášením k bakalářské práci
+	%%% Na tomto místě mohou být napsána případná poděkování (vedoucímu práce,
+	%%% konzultantovi, tomu, kdo zapůjčil software, literaturu apod.)
 
-\vglue 0pt plus 1fill
+	\openright
 
-\noindent
-Prohlašuji, že jsem bakalářskou práci na téma Komparace současné francouzské a české mateřské školy ve vybraných aspektech vypracovala pod vedením vedoucího bakalářské práce samostatně za použití v práci uvedených pramenů a literatury. Dále prohlašuji, že tato bakalářská práce nebyla využita k získání jiného nebo stejného titulu.
+	\noindent
 
+	Poděkování
 
-\vspace{10mm}
+	Chtěla bych poděkovat doc. PhDr. Janě Uhlířové CSc. za vedení mé práce, podnětné přípomínky a čas, který mi věnovala.
+	Dále bych chtěla poděkovat své rodině za morální podporu a příteli za podporu technickou. 
 
-\hbox{\hbox to 0.5\hsize{%
-V Praze dne 5.12.2014
-\hss}\hbox to 0.5\hsize{%
-Podpis autora
-\hss}}
-
-\vspace{20mm}
 \newpage
 
 %%% Povinná informační strana bakalářské práce
@@ -247,8 +250,7 @@ komparace, systém předškolní výchovy ve Francii, mateřská škola, vzděl�
 
 Title:
 % přesný překlad názvu práce v angličtině
-The comparison of contemporary French and Czech kindergarden
-in some significant aspects
+The comparison of contemporary French and Czech kindergarden in some significant aspects
 
 Author:
 Marie Obdžálková
@@ -279,14 +281,12 @@ comparison, preschool system in France, kindergarden, educational aims, curricul
 
 \openright
 \pagestyle{plain}
-\setcounter{page}{1}
+\setcounter{page}{1}  % nastaví čítač stránek znovu od jedné
+\pagenumbering{Roman} % číslování římskými číslicemi
 \tableofcontents
 
+
 %%% Jednotlivé kapitoly práce jsou pro přehlednost uloženy v samostatných souborech
-% \include{uvod}
-% \include{kap1}
-% \include{kap2}
-% \include{zaver}
 
 \include{Uvod}
 \part{TEORETICKÁ ČÁST}
@@ -298,6 +298,7 @@ comparison, preschool system in France, kindergarden, educational aims, curricul
 \include{metody}
 \include{kurikulum2}
 \include{rezimDne}
+\include{zaver.tex}
 
 %%% Seznam použité literatury
 %\include{literatura}
@@ -315,6 +316,8 @@ comparison, preschool system in France, kindergarden, educational aims, curricul
 %%% diagramy apod.). Každá příloha musí být alespoň jednou odkazována z vlastního
 %%% textu práce. Přílohy se číslují.
 \chapwithtoc{Přílohy}
+\setcounter{page}{1}  % nastaví čítač stránek znovu od jedné
+\pagenumbering{Roman} % číslování římskými číslicemi
 \include{prilohy}
 \include{prilohy2}
 \include{prilohy3}
