@@ -60,34 +60,34 @@
 \contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{34}{section*.35}
 \contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{34}{section*.36}
 \contentsline {subsection}{\numberline {6.2.2}D\IeC {\'\i }t\IeC {\v e} a jeho psychika}{34}{subsection.6.2.2}
-\contentsline {paragraph}{I Jazyk a \IeC {\v r}e\IeC {\v c}}{35}{section*.37}
+\contentsline {paragraph}{I Jazyk a \IeC {\v r}e\IeC {\v c}}{34}{section*.37}
 \contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{35}{section*.38}
 \contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{35}{section*.39}
 \contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{35}{section*.40}
 \contentsline {paragraph}{II Pozn\IeC {\'a}vac\IeC {\'\i } schopnosti a funkce, p\IeC {\v r}edstavivost a fantazie, my\IeC {\v s}lenkov\IeC {\'e} operace}{35}{section*.41}
-\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{36}{section*.42}
+\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{35}{section*.42}
 \contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{36}{section*.43}
 \contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{36}{section*.44}
 \contentsline {paragraph}{III Sebepojet\IeC {\'\i }, city, v\IeC {\r u}le}{36}{section*.45}
-\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{37}{section*.46}
+\contentsline {subparagraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{36}{section*.46}
 \contentsline {subparagraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{37}{section*.47}
 \contentsline {subparagraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{37}{section*.48}
-\contentsline {subsection}{\numberline {6.2.3}D\IeC {\'\i }t\IeC {\v e} a ten druh\IeC {\'y}}{38}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.3}D\IeC {\'\i }t\IeC {\v e} a ten druh\IeC {\'y}}{37}{subsection.6.2.3}
 \contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{38}{section*.49}
 \contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{38}{section*.50}
 \contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{38}{section*.51}
-\contentsline {subsection}{\numberline {6.2.4}D\IeC {\'\i }t\IeC {\v e} a spole\IeC {\v c}nost}{39}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.4}D\IeC {\'\i }t\IeC {\v e} a spole\IeC {\v c}nost}{38}{subsection.6.2.4}
 \contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{39}{section*.52}
 \contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{39}{section*.53}
-\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{40}{section*.54}
+\contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{39}{section*.54}
 \contentsline {subsection}{\numberline {6.2.5}D\IeC {\'\i }t\IeC {\v e} a sv\IeC {\v e}t}{40}{subsection.6.2.5}
 \contentsline {paragraph}{D\IeC {\'\i }l\IeC {\v c}\IeC {\'\i } vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } c\IeC {\'\i }le}{40}{section*.55}
-\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{41}{section*.56}
+\contentsline {paragraph}{Vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i } nab\IeC {\'\i }dka}{40}{section*.56}
 \contentsline {paragraph}{O\IeC {\v c}ek\IeC {\'a}van\IeC {\'e} v\IeC {\'y}stupy}{41}{section*.57}
 \contentsline {subsection}{\numberline {6.2.6}Shrnut\IeC {\'\i } pojet\IeC {\'\i } a c\IeC {\'\i }l\IeC {\r u} p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i }ho vzd\IeC {\v e}l\IeC {\'a}v\IeC {\'a}n\IeC {\'\i } a role pedagoga}{41}{subsection.6.2.6}
 \contentsline {paragraph}{Kompetence k\IeC {\nobreakspace }u\IeC {\v c}en\IeC {\'\i }}{42}{section*.58}
 \contentsline {paragraph}{Kompetence k\IeC {\nobreakspace }\IeC {\v r}e\IeC {\v s}en\IeC {\'\i } probl\IeC {\'e}m\IeC {\r u}}{42}{section*.59}
-\contentsline {paragraph}{Kompetence komunikativn\IeC {\'\i }}{43}{section*.60}
+\contentsline {paragraph}{Kompetence komunikativn\IeC {\'\i }}{42}{section*.60}
 \contentsline {paragraph}{Kompetence soci\IeC {\'a}ln\IeC {\'\i } a person\IeC {\'a}ln\IeC {\'\i }}{43}{section*.61}
 \contentsline {paragraph}{Kompetence \IeC {\v c}innostn\IeC {\'\i } a ob\IeC {\v c}ansk\IeC {\'e}}{43}{section*.62}
 \contentsline {section}{\numberline {6.3}Srovn\IeC {\'a}n\IeC {\'\i } kurikul Francie a \IeC {\v C}esk\IeC {\'e} republiky}{45}{section.6.3}
@@ -125,4 +125,4 @@
 \contentsline {subsection}{\numberline {7.2.14}Hygienick\IeC {\'e} z\IeC {\'a}zem\IeC {\'\i }}{57}{subsection.7.2.14}
 \contentsline {section}{\numberline {7.3}Srovn\IeC {\'a}n\IeC {\'\i } re\IeC {\v z}imu mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii a \IeC {\v C}esk\IeC {\'e} republice}{57}{section.7.3}
 \contentsline {chapter}{Z\IeC {\'a}v\IeC {\v e}r}{61}{chapter*.63}
-\contentsline {chapter}{P\IeC {\v r}\IeC {\'\i }lohy}{I}{chapter*.65}
+\contentsline {chapter}{P\IeC {\v r}\IeC {\'\i }lohy}{I}{chapter*.64}
