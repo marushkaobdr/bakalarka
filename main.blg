@@ -11,6 +11,7 @@ A level-1 auxiliary file: rezimDne.aux
 The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
+A level-1 auxiliary file: prilohy3.aux
 Database file #1: reference.bib
 Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
@@ -18,7 +19,7 @@ Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
 You've used 19 entries,
             2898 wiz_defined-function locations,
-            749 strings with 8152 characters,
+            750 strings with 8164 characters,
 and the built_in function-call counts, 5663 in all, are:
 = -- 601
 > -- 176
