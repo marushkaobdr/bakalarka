@@ -1,13 +1,15 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
+A level-1 auxiliary file: Uvod.aux
+A level-1 auxiliary file: cile.aux
+A level-1 auxiliary file: metody.aux
 A level-1 auxiliary file: klasifikace.aux
 A level-1 auxiliary file: pojetiDitete.aux
 A level-1 auxiliary file: peceOdite.aux
-A level-1 auxiliary file: cile.aux
-A level-1 auxiliary file: metody.aux
 A level-1 auxiliary file: kurikulum2.aux
 A level-1 auxiliary file: rezimDne.aux
+A level-1 auxiliary file: zaver.aux
 The style file: csplainnat.bst
 A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
@@ -17,45 +19,45 @@ Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
 Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
-You've used 19 entries,
+You've used 21 entries,
             2898 wiz_defined-function locations,
-            750 strings with 8164 characters,
-and the built_in function-call counts, 5663 in all, are:
-= -- 601
+            762 strings with 8465 characters,
+and the built_in function-call counts, 6083 in all, are:
+= -- 667
 > -- 176
 < -- 12
-+ -- 68
++ -- 71
 - -- 49
-* -- 395
-:= -- 909
-add.period$ -- 79
-call.type$ -- 19
-change.case$ -- 43
-chr.to.int$ -- 19
-cite$ -- 42
-duplicate$ -- 322
-empty$ -- 487
+* -- 433
+:= -- 957
+add.period$ -- 85
+call.type$ -- 21
+change.case$ -- 47
+chr.to.int$ -- 20
+cite$ -- 46
+duplicate$ -- 342
+empty$ -- 519
 format.name$ -- 79
-if$ -- 1234
-int.to.chr$ -- 1
+if$ -- 1338
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 45
-newline$ -- 106
+missing$ -- 51
+newline$ -- 114
 num.names$ -- 64
-pop$ -- 141
+pop$ -- 149
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 47
 quote$ -- 0
-skip$ -- 204
+skip$ -- 219
 stack$ -- 0
-substring$ -- 38
-swap$ -- 31
+substring$ -- 42
+swap$ -- 35
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 159
+type$ -- 181
 warning$ -- 4
 while$ -- 38
 width$ -- 0
-write$ -- 253
+write$ -- 273
 (There were 4 warnings)
