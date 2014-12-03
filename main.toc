@@ -39,7 +39,7 @@
 \contentsline {paragraph}{\IeC {\v Z}ivot ve spole\IeC {\v c}nosti: jak se nau\IeC {\v c}it pravidla spole\IeC {\v c}nosti a z\IeC {\'a}klady slu\IeC {\v s}n\IeC {\'e}ho chov\IeC {\'a}n\IeC {\'\i } (Vivre ensemble: apprendre les r\IeC {\`e}gles de civilit\IeC {\'e} et les principes d\IeC {\'{}}un comportement coforme \IeC {\`a} la morale)}{25}{section*.20}
 \contentsline {paragraph}{Spolupr\IeC {\'a}ce a samostatnost (Coop\IeC {\'e}rer et devenir autonome)}{26}{section*.21}
 \contentsline {paragraph}{Znalosti a dovednosti, kter\IeC {\'e} by d\IeC {\v e}ti m\IeC {\v e}ly ovl\IeC {\'a}dat na konci M\IeC {\v S}}{26}{section*.22}
-\contentsline {subsection}{\numberline {6.1.4}Jednat a vyjad\IeC {\v r}ovat se vlatn\IeC {\'\i }m t\IeC {\v e}lem (Agir et s'exprimer avec son corps)}{26}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.4}Jednat a vyjad\IeC {\v r}ovat se vlastn\IeC {\'\i }m t\IeC {\v e}lem (Agir et s'exprimer avec son corps)}{26}{subsection.6.1.4}
 \contentsline {paragraph}{Znalosti a dovednosti, kter\IeC {\'e} by d\IeC {\v e}ti m\IeC {\v e}ly ovl\IeC {\'a}dat na konci M\IeC {\v S}}{27}{section*.23}
 \contentsline {subsection}{\numberline {6.1.5}Objevovat sv\IeC {\v e}t (D\IeC {\'e}couvrir le monde)}{27}{subsection.6.1.5}
 \contentsline {paragraph}{Objevov\IeC {\'a}n\IeC {\'\i } objekt\IeC {\r u} (D\IeC {\'e}couvrir les objets)}{27}{section*.24}
