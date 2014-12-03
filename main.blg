@@ -15,49 +15,53 @@ A level-1 auxiliary file: prilohy.aux
 A level-1 auxiliary file: prilohy2.aux
 A level-1 auxiliary file: prilohy3.aux
 Database file #1: reference.bib
+Warning--to sort, need author, editor, or key in EAJE
+Warning--to sort, need author or key in fredu
+Warning--empty author and editor in EAJE
+Warning--empty author and editor in CNDP
 Warning--empty author and editor in KeyData
 Warning--empty title in KeyData
 Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
-You've used 21 entries,
+You've used 23 entries,
             2898 wiz_defined-function locations,
-            762 strings with 8465 characters,
-and the built_in function-call counts, 6083 in all, are:
-= -- 667
-> -- 176
-< -- 12
-+ -- 71
-- -- 49
-* -- 433
-:= -- 957
-add.period$ -- 85
-call.type$ -- 21
-change.case$ -- 47
-chr.to.int$ -- 20
-cite$ -- 46
-duplicate$ -- 342
-empty$ -- 519
-format.name$ -- 79
-if$ -- 1338
+            770 strings with 8610 characters,
+and the built_in function-call counts, 6269 in all, are:
+= -- 718
+> -- 132
+< -- 8
++ -- 61
+- -- 37
+* -- 459
+:= -- 901
+add.period$ -- 88
+call.type$ -- 23
+change.case$ -- 49
+chr.to.int$ -- 22
+cite$ -- 56
+duplicate$ -- 364
+empty$ -- 584
+format.name$ -- 59
+if$ -- 1433
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 51
-newline$ -- 114
-num.names$ -- 64
-pop$ -- 149
+missing$ -- 54
+newline$ -- 120
+num.names$ -- 44
+pop$ -- 166
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 49
 quote$ -- 0
-skip$ -- 219
+skip$ -- 235
 stack$ -- 0
-substring$ -- 42
-swap$ -- 35
+substring$ -- 48
+swap$ -- 33
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 181
-warning$ -- 4
-while$ -- 38
+type$ -- 198
+warning$ -- 8
+while$ -- 26
 width$ -- 0
-write$ -- 273
-(There were 4 warnings)
+write$ -- 290
+(There were 8 warnings)
