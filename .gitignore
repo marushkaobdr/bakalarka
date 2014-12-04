@@ -3,3 +3,5 @@
 *.log
 *.bbl
 !tabRozvrh1.pdf
+!main.bbl
+!main.bbl.bck
