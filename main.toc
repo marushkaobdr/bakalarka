@@ -125,4 +125,7 @@
 \contentsline {subsection}{\numberline {7.2.14}Hygienick\IeC {\'e} z\IeC {\'a}zem\IeC {\'\i }}{61}{subsection.7.2.14}
 \contentsline {section}{\numberline {7.3}Srovn\IeC {\'a}n\IeC {\'\i } re\IeC {\v z}imu mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii a~\IeC {\v C}esk\IeC {\'e} republice}{61}{section.7.3}
 \contentsline {chapter}{Z\IeC {\'a}v\IeC {\v e}r}{65}{chapter*.63}
+\contentsline {chapter}{Literatura}{68}{chapter*.63}
 \contentsline {chapter}{P\IeC {\v r}\IeC {\'\i }lohy}{I}{chapter*.67}
+\contentsline {chapter}{Seznam obr\IeC {\'a}zk\IeC {\r u}}{I}{chapter*.67}
+\contentsline {chapter}{Seznam tabulek}{III}{chapter*.68}

@@ -318,6 +318,7 @@ Praha 2014
 \nocite{fredu}
 \nocite{Prucha12}
 \bibliographystyle{csplainnat}
+\addcontentsline{toc}{chapter}{Literatura}
 \bibliography{reference}
 
 
@@ -330,9 +331,14 @@ Praha 2014
 %%% Přílohy k bakalářské práci, existují-li (různé dodatky jako výpisy programů,
 %%% diagramy apod.). Každá příloha musí být alespoň jednou odkazována z vlastního
 %%% textu práce. Přílohy se číslují.
+
 \chapwithtoc{Přílohy}
 \setcounter{page}{1}  % nastaví čítač stránek znovu od jedné
 \pagenumbering{Roman} % číslování římskými číslicemi
+\addcontentsline{toc}{chapter}{Seznam obrázků} 
+\listoffigures
+\addcontentsline{toc}{chapter}{Seznam tabulek}
+\listoftables 
 \include{prilohy}
 \include{prilohy2}
 \include{prilohy3}
