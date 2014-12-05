@@ -5,13 +5,20 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+%===========================================================================
 \section*{Tištěné zdroje}
-
 \bibitem[EAJ(2009)]{EAJE}
 \emph{L'éducation et l'accueil des jeunes enfants en Europe: réduire les
   inégalités sociales et culturelles}.
 \newblock Eurydice: EACEA, 2009.
 \newblock ISBN 978-92-9201-008-9.
+
+\bibitem[CNDP()]{CNDP}
+CNDP.
+\newblock \emph{Qu´apprend-on à l´école maternelle? – 2011-2012
+  Les programmes officiels}.
+\newblock CNDP: XO Editions, 2011.
+\newblock ISBN 978-2845635449.
 
 \bibitem[Gavora(2008)]{Gavora08}
 {\sc Gavora}, P.
@@ -41,11 +48,18 @@
 \newblock Praha:Portál, 2011.
 \newblock ISBN 978-80-7367-703-9.
 
-
-\bibitem[Průcha(2005)]{Prucha}
+\bibitem[Průcha(2009)]{Prucha}
 {\sc Průcha}, J.
 \newblock \emph{Moderní pedagogika}.
-\newblock Praha:Portál, 2005.
+\newblock Praha:Portál, 2009.
+\newblock ISBN 978-80-7367-503-5.
+
+\bibitem[Průcha(2012)]{Prucha12}
+{\sc Průcha}, J.
+\newblock \emph{Srovnávací pedagogika: mezinárodní komparace
+  vzdělávacích systémů}.
+\newblock Praha: Portal, 2012.
+\newblock ISBN 978-80-262-0191-5.
 
 \bibitem[Průcha(1999)]{Prucha99}
 {\sc Průcha}, J.
@@ -55,21 +69,13 @@
 \newblock ISBN 80-7178-290-4.
 
 
-\bibitem[\textit{Key data on education in the European Union -
-  1997}()]{KeyData}
-\textit{Key data on education in the European Union - 1997}.
-\newblock Luxembourg: Office for Official Publications of the European
-  Communities, 1997.
-\newblock ISBN 92-828-1884-5.
-
-
 \bibitem[Walterová(1994)]{Walterova}
 {\sc Walterová}, E.
 \newblock \emph{Kurikulum – Proměny a trendy v mezinárodní perspektivě}.
 \newblock Brno, 1994.
 \newblock ISBN 80-210-0846-6.
 
-%============================================================================================================
+%==================================================================================
 \section*{Elektronické zdroje}
 
 \bibitem[fre()]{fredu}
@@ -84,13 +90,6 @@
 \newblock Dostupn{\'{e}}~z:
   $\texttt{<{http://www.education.gouv.fr/bo/2008/hs3/default.htm}>}$.
 
-\bibitem[CNDP()]{CNDP}
-CNDP.
-\newblock \emph{Qu´apprend-on à l´école maternelle? – 2011-2012
-  Les programmes officiels}.
-\newblock CNDP: XO Editions, 2011.
-\newblock ISBN 978-2845635449.
-
 \bibitem[Eurydice (2009)()]{Eurydice}
 \emph{Vzdělávání a péče v raném dětství v Evropě: překonávání
   sociálních a kulturních nerovností} [online]. Eurydice: EACEA, 2009.
@@ -101,12 +100,12 @@ CNDP.
 \bibitem[Eurydice 2014({\natexlab{a}})]{Eurydice2}
 \emph{Česká republika přehled} [online]. [cit.~8.\,10.\,2014].
 \newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php}>}$.
+  $\texttt{<{https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/}>}$.
 
 \bibitem[Eurydice 2014({\natexlab{b}})]{Eurydice3}
 \emph{France Overwiew} [online]. [cit.~15.\,10.\,2014].
 \newblock Dostupn{\'{e}}~z:
-  $\texttt{<{https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php}>}$.
+  $\texttt{<{https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/}>}$.
 
 \bibitem[Mateřská, 2014()]{materska}
 \emph{Mateřská 2014} [online]. 2014. [cit.~15.\,11.\,2014].
@@ -116,9 +115,9 @@ CNDP.
 \bibitem[NAEP()]{ISCED2}
 \emph{Mezinárodní standardní klasifikace vzdělávání - ISCED} [online].
   [cit.~10.\,11.\,2014]. Verze platná od 1.\,1.\,2014.
-\newblock Dostupn{\'{e}}~z:
-  $\texttt{<{http://www.naep.cz/image/content-management/ISCED\%20klasifikace}}$\\
-  $\texttt{{\%20vzdelavani.pdf}>}$.
+\newblock Dostupn{\'{e}}~z:\\
+  $\texttt{<{http://www.naep.cz/image/content-management/ISCED\%20klasifikace}}$
+  $\texttt{ {\%20vzdelavani.pdf}>}$.
 
 \bibitem[Paloncyová et~al.(2013)Paloncyová, Barvíková, Kuchařová,
   Svobodová,, Šťastná]{Dennipece}
@@ -146,20 +145,22 @@ CNDP.
   Verze platná od 1.\,3.\,2005.
 \newblock Dostupn{\'{e}}~z: $\texttt{<{http://www.nuv.cz/file/445}>}$.
 
+
 \bibitem[ČS{\'{U}}()]{ISCED}
 \emph{Klasifikace vzdělání (CZ-ISCED 2011)} [online]. Český statistický
   úřad, 2014. [cit.~10.\,11.\,2014]. Verze platná od 1.\,1.\,2014.
 \newblock Dostupn{\'{e}}~z:
-  $\texttt{<{http://www.czso.cz/csu/klasifik.nsf/i/klasifikace\_vzdelani\_cz}}$\\
-  $\texttt{{\_isced\_2011}>}$.
-
-\bibitem[Široký()]{Siroky}
+  $\texttt{<{http://www.czso.cz/csu/klasifik.nsf/i/klasifikace\_vzdelani\_cz}}$
+  $\texttt{ {\_isced\_2011}>}$.
+  
+\bibitem[Široký(2010)]{Siroky}
 {\sc Široký}, J.
 \newblock \emph{Publikování a presentace výsledků vědy a výzkumu}
-  [online]. Moravská vysoká škola Olomouc, o. p. s. [cit.~18.\,11.\,2014].
+  [online]. Moravská vysoká škola Olomouc, o. p. s., 2010.
+  [cit.~18.\,11.\,2014].
 \newblock Dostupn{\'{e}}~z:
-  $\texttt{<{http://www.mvso.cz/data/upload/Projekty/72Publikovani\_a}}$
-  $\texttt{{\_presentace\_vysledku\_VaV.pdf}>}$.
+  $\texttt{<{http://www.mvso.cz/data/upload/Projekty/72Publikovani\_a\_presentace}}$
+  $\texttt{{\_vysledku\_VaV.pdf}>}$.
 
 
 \end{thebibliography}

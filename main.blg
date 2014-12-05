@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: Uvod.aux
@@ -19,49 +19,47 @@ Warning--to sort, need author, editor, or key in EAJE
 Warning--to sort, need author or key in fredu
 Warning--empty author and editor in EAJE
 Warning--empty author and editor in CNDP
-Warning--empty author and editor in KeyData
-Warning--empty title in KeyData
 Warning--empty author and editor in Organizace
 Warning--empty title in Organizace
 You've used 23 entries,
             2898 wiz_defined-function locations,
-            770 strings with 8610 characters,
-and the built_in function-call counts, 6269 in all, are:
-= -- 718
-> -- 132
-< -- 8
-+ -- 61
-- -- 37
-* -- 459
-:= -- 901
-add.period$ -- 88
+            771 strings with 8589 characters,
+and the built_in function-call counts, 6353 in all, are:
+= -- 724
+> -- 143
+< -- 9
++ -- 64
+- -- 40
+* -- 461
+:= -- 932
+add.period$ -- 90
 call.type$ -- 23
 change.case$ -- 49
 chr.to.int$ -- 22
-cite$ -- 56
-duplicate$ -- 364
-empty$ -- 584
-format.name$ -- 59
-if$ -- 1433
+cite$ -- 54
+duplicate$ -- 366
+empty$ -- 580
+format.name$ -- 64
+if$ -- 1442
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 54
-newline$ -- 120
-num.names$ -- 44
-pop$ -- 166
+missing$ -- 55
+newline$ -- 122
+num.names$ -- 49
+pop$ -- 162
 preamble$ -- 1
 purify$ -- 49
 quote$ -- 0
-skip$ -- 235
+skip$ -- 238
 stack$ -- 0
 substring$ -- 48
-swap$ -- 33
+swap$ -- 35
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 198
-warning$ -- 8
-while$ -- 26
+warning$ -- 6
+while$ -- 29
 width$ -- 0
-write$ -- 290
-(There were 8 warnings)
+write$ -- 295
+(There were 6 warnings)
