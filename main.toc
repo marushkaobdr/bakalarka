@@ -3,12 +3,12 @@
 \contentsline {part}{I\hspace {1em}TEORETICK\IeC {\'A} \IeC {\v C}\IeC {\'A}ST}{6}{part.1}
 \contentsline {chapter}{\numberline {1}C\IeC {\'I}LE}{7}{chapter.1}
 \contentsline {chapter}{\numberline {2}METODY}{8}{chapter.2}
-\contentsline {chapter}{\numberline {3}Z\IeC {\'A}KLADN\IeC {\'I} INFORMACE O~MATE\IeC {\v R}SK\IeC {\'Y}CH \IeC {\v S}KOL\IeC {\'A}CH SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{10}{chapter.3}
+\contentsline {chapter}{\numberline {3}Z\IeC {\'A}KLADN\IeC {\'I} INFORMACE O~MATE\IeC {\v R}SK\IeC {\'Y}CH \IeC {\v S}KOL\IeC {\'A}CH\\ SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{10}{chapter.3}
 \contentsline {section}{\numberline {3.1}Za\IeC {\v r}azen\IeC {\'\i } mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly v~r\IeC {\'a}mci klasifikace vzd\IeC {\v e}l\IeC {\'a}vac\IeC {\'\i }ho syst\IeC {\'e}mu}{10}{section.3.1}
 \contentsline {section}{\numberline {3.2}Mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly ve Francii}{11}{section.3.2}
 \contentsline {section}{\numberline {3.3}Mate\IeC {\v r}sk\IeC {\'e} \IeC {\v s}koly v~\IeC {\v C}esk\IeC {\'e} republice}{13}{section.3.3}
 \contentsline {chapter}{\numberline {4}POJET\IeC {\'I} D\IeC {\'I}T\IeC {\v E}TE VE FRANCII A~\IeC {\v C}ESK\IeC {\'E} REPUBLICE}{15}{chapter.4}
-\contentsline {chapter}{\numberline {5}P\IeC {\'E}\IeC {\v C}E O~D\IeC {\'I}T\IeC {\v E} P\IeC {\v R}E\IeC {\v S}KOLN\IeC {\'I}HO V\IeC {\v E}KU SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{17}{chapter.5}
+\contentsline {chapter}{\numberline {5}P\IeC {\'E}\IeC {\v C}E O~D\IeC {\'I}T\IeC {\v E} P\IeC {\v R}E\IeC {\v S}KOLN\IeC {\'I}HO V\IeC {\v E}KU\\ SROVN\IeC {\'A}VAN\IeC {\'Y}CH ZEM\IeC {\'I}}{17}{chapter.5}
 \contentsline {section}{\numberline {5.1}Podm\IeC {\'\i }nky p\IeC {\'e}\IeC {\v c}e o~p\IeC {\v r}ed\IeC {\v s}koln\IeC {\'\i } d\IeC {\v e}ti ve Francii}{17}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Mate\IeC {\v r}sk\IeC {\'a} dovolen\IeC {\'a}}{17}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Rodi\IeC {\v c}ovsk\IeC {\'a} dovolen\IeC {\'a}}{18}{subsection.5.1.2}
