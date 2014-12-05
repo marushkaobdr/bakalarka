@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.bbl
+*.te~
 !tabRozvrh1.pdf
 !main.bbl
 !main.bbl.bck
