@@ -5,7 +5,7 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\section*{Offline}
+\section*{Tištěné zdroje}
 
 \bibitem[EAJ(2009)]{EAJE}
 \emph{L'éducation et l'accueil des jeunes enfants en Europe: réduire les
@@ -70,7 +70,7 @@
 \newblock ISBN 80-210-0846-6.
 
 %============================================================================================================
-\section*{Online}
+\section*{Elektronické zdroje}
 
 \bibitem[fre()]{fredu}
 \emph{Systeme éducatif publique national} [online]. Ministere de l'éducation
